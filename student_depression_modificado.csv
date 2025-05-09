@@ -1,0 +1,997 @@
+id,Género,Edad,Profesión,Presión Académica,Promedio Ponderado (CGPA),Satisfacción con el Estudio,Satisfacción Laboral,Duración del Sueño,Hábitos Alimenticios,Pensamientos Suicidas,Horas de Estudio/Trabajo,Estrés Financiero,Antecedentes Familiares de Enfermedades Mentales,Depresión
+2,Hombre,33,Estudiante,5,16,2,0,5-6 horas,Saludable,Sí,3,1,No,1
+8,Mujer,24,Estudiante,2,12,5,0,5-6 horas,Moderado,No,3,2,Sí,0
+26,Hombre,31,Estudiante,3,14,5,0,Menos de 5 horas,Saludable,No,9,1,Sí,0
+30,Mujer,28,Estudiante,3,11,2,0,7-8 horas,Moderado,Sí,4,5,Sí,1
+32,Mujer,25,Estudiante,4,16,3,0,5-6 horas,Moderado,Sí,1,1,No,0
+33,Hombre,29,Estudiante,2,11,3,0,Menos de 5 horas,Saludable,No,4,1,No,0
+52,Hombre,30,Estudiante,3,13,4,0,7-8 horas,Saludable,No,1,2,No,0
+56,Mujer,30,Estudiante,2,16,4,0,Menos de 5 horas,No saludable,No,0,1,Sí,0
+59,Hombre,28,Estudiante,3,15,1,0,7-8 horas,Moderado,Sí,12,3,No,1
+62,Hombre,31,Estudiante,2,17,3,0,Menos de 5 horas,Moderado,Sí,2,5,No,1
+83,Hombre,24,Estudiante,3,12,3,0,5-6 horas,Moderado,Sí,11,1,Sí,1
+91,Hombre,33,Estudiante,3,14,4,0,Menos de 5 horas,Saludable,Sí,10,2,Sí,0
+94,Hombre,27,Estudiante,5,14,1,0,Menos de 5 horas,Moderado,No,10,1,Sí,1
+100,Mujer,19,Estudiante,2,17,4,0,Menos de 5 horas,No saludable,No,6,2,Sí,0
+103,Mujer,19,Estudiante,5,11,5,0,Menos de 5 horas,Moderado,Sí,4,5,Sí,1
+106,Hombre,29,Estudiante,3,17,3,0,Más de 8 horas,Moderado,Sí,10,2,Sí,1
+120,Hombre,25,Estudiante,5,13,2,0,Menos de 5 horas,No saludable,Sí,2,5,Sí,1
+132,Mujer,20,Estudiante,5,14,3,0,5-6 horas,Saludable,Sí,10,3,No,1
+139,Hombre,19,Estudiante,2,16,2,0,7-8 horas,No saludable,No,6,3,No,0
+145,Hombre,25,Estudiante,3,16,3,0,5-6 horas,Moderado,No,8,3,Sí,1
+161,Hombre,29,Estudiante,3,17,4,0,5-6 horas,Moderado,Sí,1,1,No,0
+162,Hombre,29,Estudiante,3,13,3,0,7-8 horas,Moderado,No,0,1,No,0
+166,Mujer,25,Estudiante,3,11,3,0,Más de 8 horas,No saludable,Sí,10,5,No,1
+172,Hombre,23,Estudiante,1,17,4,0,7-8 horas,Saludable,No,11,3,No,0
+173,Hombre,18,Estudiante,4,14,3,0,Más de 8 horas,No saludable,Sí,11,5,Sí,1
+176,Mujer,20,Estudiante,5,17,5,0,7-8 horas,Moderado,No,2,2,Sí,1
+186,Hombre,31,Estudiante,2,12,5,0,7-8 horas,Moderado,Sí,3,3,Sí,1
+193,Hombre,25,Estudiante,3,14,3,0,Más de 8 horas,No saludable,Sí,10,5,No,1
+208,Hombre,33,Estudiante,5,11,2,0,Menos de 5 horas,Moderado,No,8,3,Sí,0
+214,Hombre,28,Estudiante,3,16,3,0,7-8 horas,No saludable,Sí,11,2,No,1
+222,Hombre,18,Estudiante,4,13,5,0,Menos de 5 horas,Moderado,Sí,5,4,Sí,1
+232,Hombre,18,Estudiante,2,12,3,0,5-6 horas,No saludable,Sí,4,2,No,1
+239,Hombre,21,Estudiante,1,14,1,0,Menos de 5 horas,Saludable,Sí,7,2,No,0
+240,Mujer,31,Estudiante,1,12,3,0,7-8 horas,Saludable,No,8,4,Sí,0
+242,Hombre,21,Estudiante,1,16,3,0,Más de 8 horas,Saludable,No,0,3,Sí,0
+253,Mujer,25,Estudiante,1,13,3,0,7-8 horas,Moderado,Sí,2,2,No,0
+255,Mujer,21,Estudiante,5,16,2,0,5-6 horas,Moderado,Sí,0,4,Sí,1
+263,Hombre,28,Estudiante,5,12,3,0,7-8 horas,No saludable,Sí,9,1,Sí,0
+270,Hombre,28,Estudiante,1,14,2,0,7-8 horas,No saludable,No,6,3,No,0
+273,Hombre,25,Estudiante,3,13,4,0,7-8 horas,No saludable,Sí,3,4,No,1
+274,Mujer,20,Estudiante,3,14,2,0,7-8 horas,Moderado,Sí,11,5,Sí,1
+277,Hombre,23,Estudiante,2,12,4,0,5-6 horas,No saludable,Sí,10,1,Sí,0
+280,Hombre,19,Estudiante,1,10,3,0,5-6 horas,Saludable,Sí,2,1,No,0
+285,Mujer,33,Estudiante,4,16,1,0,Menos de 5 horas,No saludable,Sí,10,5,Sí,1
+294,Mujer,23,Estudiante,1,16,4,0,Más de 8 horas,No saludable,No,12,5,No,0
+301,Hombre,22,Estudiante,1,16,1,0,7-8 horas,No saludable,No,10,1,No,0
+303,Mujer,19,Estudiante,2,14,2,0,Menos de 5 horas,Saludable,Sí,2,3,Sí,0
+305,Mujer,30,Estudiante,1,12,3,0,Menos de 5 horas,Saludable,No,1,4,Sí,0
+310,Hombre,21,Estudiante,3,14,3,0,Menos de 5 horas,No saludable,No,1,5,Sí,0
+312,Mujer,19,Estudiante,5,14,5,0,Más de 8 horas,Saludable,Sí,0,4,Sí,1
+315,Hombre,23,Estudiante,3,16,3,0,Menos de 5 horas,Moderado,No,10,4,Sí,0
+316,Mujer,23,Estudiante,5,16,1,0,7-8 horas,Saludable,Sí,12,5,Sí,1
+324,Mujer,18,Estudiante,3,11,5,0,5-6 horas,No saludable,Sí,11,4,No,1
+328,Hombre,28,Estudiante,4,13,1,0,7-8 horas,No saludable,Sí,12,1,Sí,1
+335,Hombre,24,Estudiante,2,16,3,0,5-6 horas,No saludable,No,8,1,No,0
+336,Mujer,33,Estudiante,1,15,1,0,Más de 8 horas,Saludable,Sí,5,2,No,0
+337,Mujer,20,Estudiante,3,16,2,0,5-6 horas,Moderado,Sí,7,3,No,1
+340,Hombre,23,Estudiante,5,16,1,0,7-8 horas,Moderado,Sí,11,4,Sí,1
+343,Hombre,23,Estudiante,5,11,1,0,5-6 horas,Saludable,Sí,11,4,Sí,1
+347,Mujer,24,Estudiante,3,11,1,0,Menos de 5 horas,Saludable,Sí,9,2,No,1
+348,Hombre,25,Estudiante,5,15,1,0,5-6 horas,No saludable,No,7,3,Sí,0
+351,Mujer,24,Estudiante,4,16,3,0,5-6 horas,Moderado,Sí,3,5,No,1
+367,Mujer,24,Estudiante,3,11,4,0,7-8 horas,Moderado,Sí,10,5,No,1
+370,Hombre,31,Estudiante,1,14,5,0,Más de 8 horas,No saludable,Sí,0,3,Sí,0
+381,Hombre,20,Estudiante,5,17,4,0,Menos de 5 horas,No saludable,Sí,4,5,Sí,1
+385,Hombre,21,Estudiante,2,15,5,0,Menos de 5 horas,Saludable,Sí,2,5,No,1
+392,Hombre,25,Estudiante,1,17,3,0,7-8 horas,Moderado,Sí,11,4,Sí,0
+398,Hombre,19,Estudiante,2,14,4,0,7-8 horas,Saludable,No,11,1,Sí,0
+407,Mujer,34,Estudiante,3,14,3,0,Más de 8 horas,Saludable,Sí,12,5,No,0
+408,Hombre,24,Estudiante,1,14,4,0,5-6 horas,Saludable,No,10,2,No,0
+414,Hombre,33,Estudiante,5,16,3,0,Menos de 5 horas,Moderado,No,8,1,No,0
+420,Hombre,32,Estudiante,3,16,5,0,7-8 horas,Moderado,Sí,5,5,Sí,1
+421,Hombre,18,Estudiante,3,13,4,0,7-8 horas,Moderado,Sí,6,4,No,1
+423,Mujer,31,Estudiante,1,15,4,0,Menos de 5 horas,No saludable,Sí,7,1,Sí,0
+425,Mujer,25,Estudiante,3,13,5,0,7-8 horas,Saludable,No,9,2,No,0
+429,Hombre,20,Estudiante,1,16,4,0,5-6 horas,No saludable,No,3,3,No,0
+441,Hombre,31,Estudiante,2,15,1,0,7-8 horas,No saludable,No,0,1,Sí,0
+447,Hombre,24,Estudiante,5,11,1,0,7-8 horas,No saludable,Sí,6,3,Sí,1
+454,Hombre,24,Estudiante,5,17,2,0,Menos de 5 horas,No saludable,Sí,8,4,No,1
+455,Mujer,23,Estudiante,5,12,2,0,5-6 horas,Saludable,No,0,3,Sí,1
+457,Mujer,25,Estudiante,2,14,1,0,Más de 8 horas,Moderado,Sí,7,3,Sí,1
+464,Hombre,25,Estudiante,2,11,3,0,Más de 8 horas,No saludable,Sí,5,5,Sí,1
+467,Mujer,25,Estudiante,1,15,2,0,Más de 8 horas,Moderado,Sí,7,1,Sí,0
+475,Mujer,28,Estudiante,2,13,1,0,5-6 horas,No saludable,Sí,4,5,No,1
+477,Mujer,20,Estudiante,4,14,4,0,Más de 8 horas,No saludable,Sí,12,5,No,1
+484,Mujer,24,Estudiante,1,14,5,0,Menos de 5 horas,Moderado,Sí,6,5,No,1
+487,Hombre,23,Estudiante,1,15,4,0,5-6 horas,Moderado,No,12,3,No,0
+491,Hombre,19,Estudiante,3,13,1,0,Más de 8 horas,Moderado,No,1,5,No,1
+494,Mujer,24,Estudiante,3,13,3,0,Menos de 5 horas,Saludable,No,11,4,Sí,1
+503,Mujer,34,Estudiante,2,17,5,0,Más de 8 horas,No saludable,No,1,2,Sí,0
+508,Mujer,25,Estudiante,2,14,4,0,5-6 horas,Saludable,No,8,4,Sí,0
+509,Hombre,28,Estudiante,1,16,2,0,7-8 horas,No saludable,No,3,4,No,0
+510,Mujer,27,Estudiante,3,16,1,0,Más de 8 horas,Saludable,Sí,4,4,Sí,1
+522,Hombre,22,Estudiante,2,16,4,0,Más de 8 horas,Saludable,No,0,2,Sí,0
+523,Hombre,27,Estudiante,4,13,1,0,5-6 horas,Saludable,Sí,10,4,No,0
+525,Mujer,34,Estudiante,3,11,3,0,7-8 horas,No saludable,Sí,7,4,Sí,1
+529,Hombre,22,Estudiante,4,13,4,0,5-6 horas,Moderado,Sí,10,3,No,1
+530,Hombre,23,Estudiante,3,15,2,0,Más de 8 horas,No saludable,No,11,3,Sí,0
+534,Hombre,24,Estudiante,3,14,1,0,Menos de 5 horas,Saludable,Sí,9,1,Sí,1
+535,Hombre,21,Estudiante,5,16,1,0,Más de 8 horas,Moderado,Sí,9,3,No,1
+538,Hombre,26,Estudiante,4,14,2,0,Menos de 5 horas,No saludable,No,11,5,Sí,1
+539,Mujer,24,Estudiante,5,14,1,0,5-6 horas,Moderado,Sí,12,5,No,1
+541,Hombre,34,Estudiante,2,15,5,0,Menos de 5 horas,Moderado,No,7,1,Sí,0
+543,Mujer,29,Estudiante,5,11,1,0,Menos de 5 horas,No saludable,No,11,1,Sí,0
+556,Hombre,33,Estudiante,1,15,3,0,5-6 horas,No saludable,Sí,10,3,No,1
+580,Hombre,21,Estudiante,1,17,3,0,5-6 horas,Saludable,Sí,10,3,Sí,1
+587,Mujer,33,Estudiante,2,11,5,0,Menos de 5 horas,No saludable,Sí,12,1,No,1
+589,Hombre,28,Estudiante,4,15,2,0,Más de 8 horas,Saludable,Sí,6,5,Sí,1
+592,Hombre,27,Estudiante,2,16,1,0,5-6 horas,No saludable,Sí,8,4,No,1
+594,Hombre,33,Estudiante,2,15,4,0,Menos de 5 horas,Moderado,No,0,2,No,0
+595,Mujer,18,Estudiante,5,14,5,0,Menos de 5 horas,No saludable,Sí,10,5,Sí,1
+598,Mujer,20,Estudiante,5,11,4,0,Menos de 5 horas,Moderado,Sí,12,3,Sí,1
+608,Mujer,19,Estudiante,3,14,4,0,Menos de 5 horas,No saludable,Sí,12,3,Sí,1
+611,Hombre,32,Estudiante,2,17,1,0,Menos de 5 horas,No saludable,Sí,12,4,No,1
+617,Hombre,32,Estudiante,3,11,2,0,7-8 horas,Moderado,Sí,7,4,Sí,1
+620,Hombre,33,Estudiante,3,16,1,0,Menos de 5 horas,Saludable,No,5,1,Sí,0
+623,Mujer,23,Estudiante,5,11,1,0,Menos de 5 horas,No saludable,Sí,11,4,No,1
+626,Hombre,24,Estudiante,3,15,4,0,Menos de 5 horas,No saludable,Sí,10,4,Sí,1
+632,Mujer,20,Estudiante,4,15,3,0,Más de 8 horas,No saludable,Sí,6,4,No,1
+658,Mujer,24,Estudiante,5,16,2,0,Menos de 5 horas,Moderado,Sí,4,3,Sí,1
+660,Hombre,22,Estudiante,5,13,1,0,Menos de 5 horas,No saludable,No,8,1,Sí,1
+662,Hombre,26,Estudiante,5,12,4,0,Más de 8 horas,No saludable,No,11,2,No,0
+668,Mujer,18,Estudiante,5,15,4,0,Más de 8 horas,No saludable,Sí,3,5,No,1
+671,Hombre,26,Estudiante,3,14,3,0,7-8 horas,No saludable,No,9,5,No,0
+673,Hombre,33,Estudiante,1,11,1,0,Más de 8 horas,No saludable,No,9,3,No,0
+676,Mujer,19,Estudiante,3,11,1,0,5-6 horas,Moderado,Sí,10,5,Sí,0
+681,Hombre,26,Estudiante,3,10,3,0,7-8 horas,Saludable,No,12,1,No,0
+683,Mujer,34,Estudiante,3,15,2,0,Menos de 5 horas,Moderado,Sí,3,4,No,0
+687,Mujer,22,Estudiante,1,12,4,0,7-8 horas,Saludable,No,10,5,No,1
+688,Mujer,28,Estudiante,2,16,3,0,Menos de 5 horas,No saludable,No,7,4,Sí,1
+695,Hombre,31,Estudiante,5,14,5,0,Menos de 5 horas,No saludable,No,12,2,No,0
+696,Mujer,18,Estudiante,3,13,4,0,Más de 8 horas,Saludable,Sí,9,2,No,1
+697,Hombre,32,Estudiante,2,14,3,0,5-6 horas,No saludable,Sí,0,5,Sí,1
+701,Mujer,19,Estudiante,3,11,4,0,Más de 8 horas,No saludable,Sí,11,5,No,1
+707,Hombre,20,Estudiante,5,16,2,0,Más de 8 horas,No saludable,Sí,1,3,No,1
+708,Hombre,28,Estudiante,2,16,2,0,5-6 horas,No saludable,Sí,2,5,Sí,1
+709,Hombre,19,Estudiante,2,17,4,0,Menos de 5 horas,Saludable,Sí,10,4,No,1
+710,Hombre,34,Estudiante,3,17,1,0,Más de 8 horas,Moderado,No,3,1,No,0
+712,Hombre,20,Estudiante,3,17,5,0,Menos de 5 horas,No saludable,Sí,6,2,No,1
+713,Hombre,18,Estudiante,1,10,5,0,Más de 8 horas,Moderado,No,12,2,No,0
+714,Mujer,29,Estudiante,3,17,5,0,7-8 horas,Moderado,No,10,5,No,1
+716,Hombre,24,Estudiante,1,14,4,0,Menos de 5 horas,Moderado,No,1,1,No,0
+724,Hombre,33,Estudiante,4,14,3,0,5-6 horas,Saludable,Sí,1,5,No,0
+728,Hombre,34,Estudiante,1,12,4,0,Menos de 5 horas,Moderado,Sí,10,4,No,0
+733,Mujer,29,Estudiante,1,14,2,0,7-8 horas,Moderado,No,9,2,No,0
+735,Hombre,27,Estudiante,4,16,2,0,5-6 horas,No saludable,Sí,10,2,Sí,1
+737,Mujer,31,Estudiante,3,14,2,0,Menos de 5 horas,No saludable,Sí,9,1,Sí,1
+744,Hombre,30,Estudiante,5,11,3,0,Menos de 5 horas,Moderado,Sí,4,1,No,1
+746,Mujer,31,Estudiante,4,14,2,0,Menos de 5 horas,Moderado,No,8,2,No,0
+749,Hombre,26,Estudiante,2,12,5,0,5-6 horas,Saludable,Sí,12,3,Sí,0
+750,Hombre,21,Estudiante,4,12,1,0,Menos de 5 horas,No saludable,Sí,9,4,Sí,1
+754,Mujer,34,Estudiante,3,12,3,0,Menos de 5 horas,Moderado,Sí,3,1,No,0
+758,Hombre,24,Estudiante,1,11,2,0,Más de 8 horas,Moderado,No,11,1,No,0
+759,Hombre,21,Estudiante,3,16,2,0,5-6 horas,No saludable,Sí,9,3,Sí,1
+763,Mujer,31,Estudiante,5,12,2,0,5-6 horas,No saludable,Sí,9,3,No,1
+764,Hombre,20,Estudiante,5,10,4,0,Más de 8 horas,No saludable,Sí,11,5,No,1
+770,Hombre,34,Estudiante,4,16,3,0,5-6 horas,Moderado,No,12,1,No,0
+774,Mujer,30,Estudiante,4,11,5,0,Menos de 5 horas,Saludable,Sí,4,3,Sí,1
+777,Hombre,30,Estudiante,1,11,5,0,7-8 horas,No saludable,Sí,12,4,Sí,0
+779,Hombre,20,Estudiante,5,13,1,0,5-6 horas,Saludable,Sí,11,2,No,1
+781,Mujer,22,Estudiante,1,13,1,0,7-8 horas,Moderado,Sí,12,3,Sí,0
+785,Hombre,18,Estudiante,5,11,4,0,Más de 8 horas,Saludable,Sí,9,2,Sí,1
+793,Mujer,27,Estudiante,3,11,4,0,Menos de 5 horas,Saludable,Sí,6,5,Sí,1
+796,Hombre,26,Estudiante,5,11,3,0,7-8 horas,Moderado,Sí,10,2,Sí,1
+804,Hombre,24,Estudiante,5,11,5,0,7-8 horas,Saludable,Sí,5,3,Sí,1
+811,Mujer,28,Estudiante,2,14,4,0,5-6 horas,Saludable,Sí,2,5,Sí,1
+813,Mujer,24,Estudiante,3,17,2,0,7-8 horas,No saludable,Sí,0,4,Sí,1
+814,Mujer,32,Estudiante,1,16,3,0,5-6 horas,No saludable,Sí,4,4,No,1
+821,Mujer,21,Estudiante,5,11,1,0,7-8 horas,Saludable,Sí,11,4,No,1
+823,Hombre,19,Estudiante,3,13,5,0,7-8 horas,Moderado,No,12,1,Sí,0
+825,Mujer,24,Estudiante,2,14,4,0,7-8 horas,Moderado,No,11,1,Sí,0
+831,Mujer,26,Estudiante,1,11,4,0,7-8 horas,Saludable,No,8,5,No,0
+832,Mujer,20,Estudiante,2,17,3,0,Más de 8 horas,No saludable,No,4,3,Sí,0
+836,Hombre,19,Estudiante,3,14,5,0,Menos de 5 horas,Moderado,Sí,8,3,Sí,1
+839,Hombre,32,Estudiante,4,16,2,0,Más de 8 horas,Moderado,Sí,7,2,No,0
+843,Mujer,23,Estudiante,5,11,2,0,5-6 horas,Moderado,Sí,2,3,No,0
+847,Mujer,23,Estudiante,4,17,1,0,Menos de 5 horas,Moderado,Sí,10,3,No,1
+852,Hombre,29,Estudiante,3,17,2,0,7-8 horas,Moderado,No,8,5,Sí,1
+854,Mujer,29,Estudiante,3,12,4,0,7-8 horas,Moderado,No,8,2,Sí,0
+861,Mujer,27,Estudiante,1,16,2,0,7-8 horas,No saludable,Sí,4,4,No,0
+862,Mujer,33,Estudiante,5,16,4,0,Más de 8 horas,Moderado,No,9,1,Sí,1
+863,Mujer,33,Estudiante,2,17,1,0,Más de 8 horas,No saludable,Sí,8,2,Sí,1
+875,Hombre,31,Estudiante,4,17,5,0,Menos de 5 horas,Moderado,No,12,2,No,0
+877,Hombre,25,Estudiante,4,13,4,0,7-8 horas,Moderado,Sí,10,5,Sí,1
+882,Mujer,29,Estudiante,1,14,5,0,Menos de 5 horas,Saludable,No,6,4,Sí,0
+897,Mujer,18,Estudiante,4,16,4,0,Más de 8 horas,Saludable,Sí,11,4,Sí,1
+907,Mujer,18,Estudiante,1,10,5,0,7-8 horas,Saludable,Sí,7,4,Sí,0
+910,Hombre,22,Estudiante,1,15,3,0,Menos de 5 horas,Moderado,Sí,11,4,No,1
+912,Hombre,24,Estudiante,5,16,1,0,5-6 horas,Moderado,Sí,5,4,Sí,1
+918,Hombre,24,Estudiante,3,15,5,0,7-8 horas,No saludable,Sí,11,5,No,1
+923,Hombre,30,Estudiante,4,17,5,0,7-8 horas,No saludable,No,11,2,Sí,0
+926,Hombre,33,Estudiante,3,14,5,0,5-6 horas,Moderado,No,7,1,Sí,0
+935,Hombre,34,Estudiante,1,15,3,0,Más de 8 horas,Saludable,No,8,3,Sí,0
+941,Hombre,32,Estudiante,4,12,1,0,7-8 horas,Moderado,Sí,7,1,No,1
+947,Hombre,33,Estudiante,2,15,3,0,7-8 horas,Saludable,No,11,4,Sí,0
+949,Mujer,20,Estudiante,5,12,2,0,Más de 8 horas,Saludable,Sí,7,5,Sí,1
+953,Mujer,25,Estudiante,2,16,1,0,Más de 8 horas,No saludable,Sí,10,5,No,1
+955,Hombre,24,Estudiante,5,13,2,0,7-8 horas,Saludable,Sí,8,4,Sí,1
+956,Hombre,23,Estudiante,4,15,2,0,Menos de 5 horas,Saludable,Sí,7,2,No,1
+965,Mujer,30,Estudiante,1,17,3,0,Menos de 5 horas,Moderado,No,12,1,Sí,0
+978,Mujer,39,Estudiante,5,13,4,0,7-8 horas,Moderado,Sí,7,2,No,1
+984,Hombre,22,Estudiante,1,14,5,0,7-8 horas,No saludable,Sí,9,5,Sí,1
+991,Hombre,23,Estudiante,5,13,1,0,5-6 horas,No saludable,Sí,6,3,Sí,1
+995,Hombre,31,Estudiante,1,16,1,0,Más de 8 horas,Moderado,Sí,2,3,Sí,1
+997,Hombre,20,Estudiante,1,16,1,0,Menos de 5 horas,No saludable,No,10,1,Sí,0
+1003,Hombre,20,Estudiante,2,16,2,0,5-6 horas,No saludable,Sí,10,5,Sí,1
+1006,Hombre,32,Estudiante,5,13,1,0,5-6 horas,No saludable,Sí,4,4,No,1
+1012,Mujer,22,Estudiante,4,11,2,0,Menos de 5 horas,No saludable,Sí,8,4,No,1
+1015,Mujer,27,Estudiante,3,15,1,0,Menos de 5 horas,No saludable,No,7,1,No,0
+1022,Mujer,18,Estudiante,3,12,5,0,7-8 horas,Moderado,Sí,5,4,Sí,0
+1029,Mujer,28,Estudiante,4,15,2,0,7-8 horas,Moderado,Sí,2,1,No,1
+1032,Mujer,22,Estudiante,3,14,1,0,Menos de 5 horas,Saludable,Sí,4,5,No,1
+1047,Mujer,20,Estudiante,5,15,1,0,7-8 horas,No saludable,Sí,9,3,No,1
+1049,Hombre,20,Estudiante,3,11,2,0,Más de 8 horas,No saludable,Sí,12,5,No,1
+1054,Hombre,30,Estudiante,1,13,3,0,7-8 horas,No saludable,No,7,2,Sí,0
+1055,Hombre,18,Estudiante,1,12,5,0,Más de 8 horas,Moderado,No,6,4,Sí,0
+1065,Mujer,26,Estudiante,4,17,3,0,7-8 horas,No saludable,Sí,10,1,No,1
+1069,Hombre,34,Estudiante,1,16,3,0,Más de 8 horas,Moderado,No,12,1,No,0
+1075,Hombre,20,Estudiante,5,15,5,0,7-8 horas,Saludable,Sí,12,3,No,1
+1079,Hombre,20,Estudiante,2,12,3,0,5-6 horas,No saludable,Sí,2,1,No,0
+1084,Mujer,33,Estudiante,3,14,4,0,Más de 8 horas,Saludable,No,6,3,No,0
+1087,Mujer,20,Estudiante,3,12,2,0,7-8 horas,No saludable,No,8,5,Sí,1
+1091,Mujer,28,Estudiante,2,14,5,0,7-8 horas,Moderado,Sí,4,4,No,1
+1093,Mujer,26,Estudiante,4,15,1,0,Menos de 5 horas,Moderado,Sí,0,5,Sí,1
+1094,Hombre,25,Estudiante,3,13,3,0,7-8 horas,Moderado,Sí,9,5,No,1
+1105,Mujer,28,Estudiante,5,14,2,0,7-8 horas,Saludable,Sí,2,2,Sí,0
+1108,Mujer,29,Estudiante,5,13,3,0,Menos de 5 horas,Moderado,No,4,5,Sí,1
+1117,Hombre,34,Estudiante,3,14,4,0,Menos de 5 horas,Saludable,No,12,3,Sí,0
+1126,Mujer,29,Estudiante,2,12,3,0,Menos de 5 horas,Saludable,No,0,2,No,1
+1130,Mujer,28,Estudiante,1,12,3,0,Menos de 5 horas,Moderado,No,5,2,Sí,0
+1131,Mujer,33,Estudiante,1,15,5,0,Menos de 5 horas,Moderado,No,4,5,Sí,0
+1134,Hombre,18,Estudiante,5,12,1,0,7-8 horas,Moderado,Sí,4,2,No,1
+1148,Hombre,19,Estudiante,5,15,1,0,5-6 horas,Saludable,Sí,10,4,Sí,1
+1152,Mujer,27,Estudiante,3,16,1,0,Más de 8 horas,No saludable,Sí,10,1,Sí,1
+1154,Mujer,29,Estudiante,1,14,3,0,Menos de 5 horas,Saludable,No,12,1,No,0
+1156,Mujer,18,Estudiante,5,11,5,0,7-8 horas,No saludable,Sí,9,2,Sí,1
+1158,Hombre,27,Estudiante,5,15,5,0,Menos de 5 horas,Saludable,No,12,5,Sí,1
+1165,Hombre,34,Estudiante,2,15,5,0,7-8 horas,Moderado,No,5,1,No,0
+1168,Mujer,19,Estudiante,1,12,4,0,7-8 horas,Moderado,No,5,5,Sí,0
+1170,Mujer,30,Estudiante,5,16,3,0,5-6 horas,No saludable,Sí,1,1,No,1
+1177,Mujer,25,Estudiante,3,17,4,0,Más de 8 horas,Saludable,No,1,2,Sí,0
+1179,Mujer,20,Estudiante,5,13,3,0,Menos de 5 horas,Moderado,Sí,7,1,No,1
+1186,Mujer,20,Estudiante,5,13,2,0,Menos de 5 horas,Moderado,Sí,6,5,Sí,1
+1187,Mujer,20,Estudiante,5,15,1,0,Menos de 5 horas,No saludable,Sí,10,4,No,1
+1197,Mujer,29,Estudiante,2,14,4,0,5-6 horas,No saludable,No,0,2,Sí,0
+1201,Hombre,24,Estudiante,1,14,2,0,Menos de 5 horas,Moderado,No,7,1,Sí,0
+1213,Hombre,34,Estudiante,3,10,2,0,Menos de 5 horas,No saludable,Sí,6,3,Sí,0
+1215,Hombre,31,Estudiante,2,16,3,0,7-8 horas,Moderado,No,2,1,Sí,0
+1221,Hombre,23,Estudiante,2,17,4,0,Menos de 5 horas,No saludable,No,1,4,No,0
+1222,Mujer,25,Estudiante,2,12,1,0,5-6 horas,No saludable,Sí,11,2,Sí,1
+1225,Mujer,24,Estudiante,4,17,2,0,5-6 horas,No saludable,Sí,8,5,No,1
+1232,Mujer,25,Estudiante,2,13,2,0,5-6 horas,Moderado,No,8,1,No,0
+1240,Hombre,23,Estudiante,3,14,1,0,5-6 horas,Saludable,No,7,1,No,0
+1241,Hombre,21,Estudiante,5,14,4,0,7-8 horas,Saludable,Sí,10,1,Sí,1
+1244,Hombre,22,Estudiante,1,14,3,0,5-6 horas,Moderado,Sí,6,1,Sí,0
+1252,Hombre,33,Estudiante,2,17,4,0,Más de 8 horas,Moderado,Sí,0,2,No,0
+1254,Hombre,24,Estudiante,4,16,2,0,Menos de 5 horas,No saludable,Sí,5,1,No,1
+1255,Mujer,25,Estudiante,4,17,3,0,Menos de 5 horas,Saludable,No,2,1,No,0
+1263,Hombre,33,Estudiante,3,14,3,0,Menos de 5 horas,Moderado,No,4,1,Sí,0
+1275,Hombre,27,Estudiante,1,15,1,0,Menos de 5 horas,Moderado,Sí,12,1,No,0
+1278,Mujer,31,Estudiante,3,15,3,0,Más de 8 horas,Saludable,No,12,2,No,0
+1286,Mujer,19,Estudiante,5,14,5,0,Más de 8 horas,Saludable,Sí,7,5,No,1
+1296,Hombre,29,Estudiante,4,16,3,0,Más de 8 horas,Moderado,Sí,11,4,Sí,1
+1301,Hombre,23,Estudiante,3,15,1,0,7-8 horas,Moderado,Sí,9,5,No,1
+1305,Hombre,25,Estudiante,1,15,4,0,Menos de 5 horas,Moderado,No,0,2,No,0
+1307,Hombre,34,Estudiante,3,13,2,0,5-6 horas,Moderado,Sí,4,5,Sí,1
+1319,Hombre,18,Estudiante,5,17,1,0,Más de 8 horas,No saludable,Sí,12,5,No,1
+1324,Hombre,29,Estudiante,2,12,4,0,7-8 horas,Saludable,No,6,3,No,0
+1328,Mujer,25,Estudiante,3,14,1,0,Menos de 5 horas,Saludable,Sí,11,4,Sí,1
+1329,Hombre,29,Estudiante,3,14,4,0,5-6 horas,No saludable,Sí,10,1,No,1
+1334,Hombre,28,Estudiante,3,15,5,0,Menos de 5 horas,Saludable,No,11,2,Sí,0
+1336,Mujer,31,Estudiante,2,15,3,0,5-6 horas,No saludable,Sí,3,1,No,0
+1347,Hombre,30,Estudiante,3,17,3,0,Menos de 5 horas,No saludable,Sí,5,3,No,1
+1348,Hombre,24,Estudiante,5,13,4,0,5-6 horas,Saludable,Sí,11,5,No,1
+1355,Hombre,26,Estudiante,4,15,4,0,5-6 horas,No saludable,Sí,7,4,Sí,1
+1360,Mujer,29,Estudiante,2,12,2,0,5-6 horas,Moderado,Sí,10,2,No,1
+1361,Hombre,22,Estudiante,3,12,4,0,7-8 horas,No saludable,Sí,10,1,No,1
+1369,Mujer,31,Estudiante,4,12,5,0,5-6 horas,Moderado,No,10,2,Sí,1
+1370,Mujer,29,Estudiante,4,11,4,0,Menos de 5 horas,Moderado,Sí,4,1,Sí,1
+1373,Mujer,18,Estudiante,4,14,5,0,Más de 8 horas,Saludable,No,10,2,No,0
+1379,Mujer,27,Estudiante,5,14,2,0,7-8 horas,No saludable,No,10,2,Sí,0
+1381,Hombre,32,Estudiante,3,14,5,0,7-8 horas,Moderado,Sí,8,1,Sí,1
+1384,Hombre,30,Estudiante,2,16,2,0,Más de 8 horas,Saludable,No,0,2,No,0
+1391,Hombre,26,Estudiante,4,13,1,0,5-6 horas,Saludable,No,7,2,Sí,1
+1393,Hombre,28,Estudiante,4,15,1,0,Más de 8 horas,No saludable,Sí,9,4,Sí,1
+1396,Hombre,28,Estudiante,4,16,4,0,5-6 horas,Moderado,No,7,1,Sí,0
+1399,Mujer,25,Estudiante,2,13,4,0,7-8 horas,Saludable,No,9,1,No,0
+1403,Mujer,33,Estudiante,2,17,4,0,Menos de 5 horas,Saludable,No,9,3,No,0
+1411,Hombre,24,Estudiante,5,14,4,0,7-8 horas,Moderado,No,8,3,No,0
+1417,Mujer,22,Estudiante,2,14,3,0,Más de 8 horas,Saludable,Sí,10,3,No,1
+1425,Hombre,34,Estudiante,1,16,5,0,Más de 8 horas,Moderado,No,0,5,No,0
+1428,Hombre,29,Estudiante,3,16,3,3,7-8 horas,Moderado,No,8,5,No,0
+1431,Hombre,32,Estudiante,2,13,5,0,Menos de 5 horas,Moderado,Sí,5,1,No,0
+1432,Mujer,31,Estudiante,5,16,5,0,Menos de 5 horas,Moderado,No,1,1,Sí,1
+1439,Hombre,28,Estudiante,2,11,5,0,Menos de 5 horas,No saludable,Sí,11,4,Sí,1
+1444,Hombre,30,Estudiante,5,15,5,0,5-6 horas,Moderado,Sí,12,2,Sí,1
+1450,Mujer,26,Estudiante,1,13,3,0,Menos de 5 horas,No saludable,No,1,5,No,0
+1453,Hombre,19,Estudiante,4,16,2,0,Más de 8 horas,Saludable,No,12,5,Sí,1
+1457,Mujer,21,Estudiante,5,17,1,0,Más de 8 horas,Saludable,Sí,12,4,Sí,1
+1464,Hombre,22,Estudiante,4,14,3,0,Menos de 5 horas,No saludable,Sí,10,2,No,1
+1467,Hombre,23,Estudiante,4,13,2,0,Menos de 5 horas,Moderado,No,11,5,Sí,1
+1472,Mujer,25,Estudiante,2,11,1,0,Menos de 5 horas,Moderado,Sí,12,4,Sí,1
+1474,Mujer,24,Estudiante,3,14,4,0,Más de 8 horas,Moderado,Sí,9,1,Sí,0
+1475,Mujer,18,Estudiante,3,11,3,0,7-8 horas,Moderado,Sí,7,4,Sí,1
+1484,Mujer,19,Estudiante,5,13,3,0,Menos de 5 horas,Moderado,Sí,10,5,Sí,1
+1488,Mujer,30,Estudiante,3,15,3,0,7-8 horas,Moderado,No,12,2,No,0
+1493,Mujer,35,Estudiante,5,11,2,0,7-8 horas,Moderado,No,3,4,Sí,0
+1494,Mujer,20,Estudiante,5,12,3,0,7-8 horas,Moderado,No,4,5,No,1
+1498,Hombre,20,Estudiante,3,15,2,0,7-8 horas,Moderado,Sí,2,4,No,1
+1499,Mujer,18,Estudiante,5,17,4,0,Menos de 5 horas,Saludable,Sí,5,1,No,0
+1501,Mujer,18,Estudiante,3,17,2,0,Más de 8 horas,Saludable,Sí,10,1,Sí,1
+1512,Mujer,30,Estudiante,2,15,3,0,5-6 horas,Moderado,No,4,2,Sí,0
+1513,Mujer,33,Estudiante,1,12,3,0,7-8 horas,Moderado,No,7,1,No,0
+1515,Mujer,29,Estudiante,5,16,2,0,5-6 horas,Moderado,No,12,3,Sí,1
+1526,Mujer,28,Estudiante,1,17,4,0,Menos de 5 horas,No saludable,Sí,7,3,No,1
+1528,Hombre,26,Estudiante,1,14,4,0,Más de 8 horas,No saludable,No,0,1,Sí,0
+1529,Hombre,22,Estudiante,4,13,4,0,Más de 8 horas,Moderado,Sí,9,2,No,0
+1535,Mujer,28,Estudiante,5,14,4,0,Menos de 5 horas,Moderado,Sí,12,2,Sí,1
+1536,Hombre,32,Estudiante,4,12,5,0,7-8 horas,No saludable,Sí,12,2,Sí,1
+1545,Mujer,31,Estudiante,4,16,3,0,7-8 horas,Saludable,Sí,11,4,No,1
+1565,Hombre,20,Estudiante,4,12,3,0,7-8 horas,No saludable,Sí,4,2,Sí,1
+1580,Mujer,30,Estudiante,5,11,2,0,7-8 horas,No saludable,Sí,11,3,Sí,1
+1582,Hombre,27,Estudiante,1,14,4,0,Menos de 5 horas,No saludable,No,2,1,Sí,0
+1586,Hombre,26,Estudiante,4,13,3,0,5-6 horas,Moderado,Sí,6,1,No,1
+1589,Hombre,34,Estudiante,3,10,5,0,Más de 8 horas,Saludable,Sí,9,3,Sí,0
+1591,Mujer,20,Estudiante,2,11,4,0,5-6 horas,Saludable,No,10,1,Sí,0
+1593,Hombre,22,Estudiante,3,12,1,0,Menos de 5 horas,Saludable,Sí,5,2,No,1
+1600,Mujer,20,Estudiante,2,12,3,0,5-6 horas,Saludable,No,2,3,Sí,0
+1605,Mujer,27,Estudiante,3,14,1,0,7-8 horas,Saludable,Sí,2,5,No,1
+1609,Mujer,25,Estudiante,3,14,2,0,Menos de 5 horas,No saludable,Sí,12,4,Sí,1
+1616,Hombre,19,Estudiante,4,16,3,0,5-6 horas,Saludable,Sí,10,5,No,1
+1618,Hombre,29,Estudiante,5,15,1,0,Más de 8 horas,No saludable,Sí,10,5,No,1
+1623,Mujer,18,Estudiante,3,12,2,0,7-8 horas,Saludable,No,12,1,Sí,1
+1629,Mujer,21,Estudiante,5,16,2,0,Menos de 5 horas,Saludable,Sí,3,2,No,1
+1632,Mujer,31,Estudiante,1,17,5,0,Menos de 5 horas,No saludable,No,10,1,No,0
+1643,Mujer,33,Estudiante,4,12,1,0,5-6 horas,Moderado,Sí,10,4,Sí,1
+1647,Hombre,33,Estudiante,5,13,4,0,7-8 horas,Moderado,No,7,5,No,1
+1655,Hombre,21,Estudiante,3,11,1,0,Más de 8 horas,Moderado,No,8,5,No,0
+1657,Mujer,21,Estudiante,5,12,1,0,5-6 horas,Moderado,Sí,8,5,No,1
+1659,Hombre,23,Estudiante,4,11,2,0,Más de 8 horas,Saludable,Sí,4,3,No,1
+1662,Hombre,20,Estudiante,4,13,4,0,5-6 horas,No saludable,Sí,9,5,Sí,1
+1669,Mujer,20,Estudiante,5,13,4,0,7-8 horas,No saludable,Sí,7,5,Sí,1
+1675,Mujer,20,Estudiante,5,14,4,0,7-8 horas,Moderado,Sí,12,5,No,1
+1677,Hombre,20,Estudiante,5,11,5,0,Más de 8 horas,No saludable,No,4,2,No,0
+1682,Mujer,33,Estudiante,4,15,4,0,7-8 horas,Moderado,Sí,4,2,Sí,1
+1683,Hombre,29,Estudiante,5,11,4,0,Menos de 5 horas,Saludable,Sí,6,4,No,1
+1686,Mujer,21,Estudiante,3,11,4,0,5-6 horas,No saludable,No,6,2,Sí,1
+1701,Hombre,28,Estudiante,4,14,1,0,5-6 horas,Moderado,Sí,10,3,Sí,1
+1705,Mujer,25,Estudiante,4,15,5,0,Más de 8 horas,Moderado,Sí,11,3,Sí,1
+1709,Mujer,22,Estudiante,3,15,2,0,5-6 horas,Saludable,Sí,4,2,Sí,1
+1746,Mujer,24,Estudiante,1,15,3,0,5-6 horas,Moderado,No,3,1,Sí,0
+1747,Hombre,19,Estudiante,1,11,4,0,Menos de 5 horas,Moderado,Sí,3,3,No,0
+1750,Hombre,32,Estudiante,3,11,3,0,7-8 horas,No saludable,Sí,7,5,No,1
+1756,Mujer,25,Estudiante,1,15,4,0,5-6 horas,Saludable,No,10,1,No,0
+1760,Mujer,25,Estudiante,5,16,3,0,Menos de 5 horas,No saludable,Sí,6,4,No,1
+1762,Hombre,21,Estudiante,4,17,1,0,7-8 horas,No saludable,Sí,4,2,No,1
+1769,Mujer,28,Estudiante,1,15,2,0,Menos de 5 horas,Moderado,No,9,3,Sí,0
+1770,Hombre,20,Estudiante,3,14,2,0,Menos de 5 horas,Moderado,Sí,10,4,Sí,1
+1782,Hombre,26,Estudiante,4,12,5,0,Más de 8 horas,No saludable,Sí,3,1,Sí,0
+1795,Mujer,19,Estudiante,5,13,5,0,5-6 horas,No saludable,Sí,10,5,No,1
+1801,Hombre,25,Estudiante,2,16,3,0,5-6 horas,Saludable,Sí,9,4,No,1
+1802,Mujer,33,Estudiante,3,11,5,0,7-8 horas,No saludable,No,11,1,Sí,0
+1803,Mujer,20,Estudiante,2,17,5,0,Menos de 5 horas,Moderado,No,10,1,Sí,0
+1809,Hombre,22,Estudiante,3,12,3,0,5-6 horas,No saludable,Sí,7,4,Sí,0
+1812,Hombre,26,Estudiante,2,13,4,0,5-6 horas,No saludable,No,5,1,Sí,0
+1813,Mujer,20,Estudiante,2,13,3,0,5-6 horas,Saludable,No,11,2,No,0
+1822,Hombre,23,Estudiante,1,15,3,0,Menos de 5 horas,No saludable,Sí,2,3,No,1
+1835,Hombre,33,Estudiante,1,16,3,0,5-6 horas,Saludable,No,0,5,No,0
+1843,Mujer,20,Estudiante,4,14,3,0,5-6 horas,Moderado,Sí,9,3,No,0
+1848,Mujer,29,Estudiante,5,11,3,0,7-8 horas,No saludable,No,11,1,No,1
+1850,Hombre,33,Estudiante,1,13,1,0,Más de 8 horas,Moderado,No,8,2,No,0
+1856,Hombre,26,Estudiante,1,15,4,0,Más de 8 horas,Saludable,Sí,7,4,No,0
+1857,Mujer,27,Estudiante,1,12,4,0,5-6 horas,Saludable,No,0,1,No,0
+1864,Mujer,34,Estudiante,5,11,2,0,7-8 horas,Saludable,Sí,9,1,No,0
+1871,Hombre,34,Estudiante,4,11,4,0,Más de 8 horas,Moderado,No,10,1,Sí,0
+1876,Mujer,20,Estudiante,3,16,2,0,Menos de 5 horas,Moderado,Sí,9,5,No,1
+1877,Hombre,28,Estudiante,5,16,4,0,Más de 8 horas,No saludable,Sí,11,1,No,1
+1881,Hombre,28,Estudiante,3,17,4,0,7-8 horas,No saludable,No,11,4,Sí,1
+1891,Mujer,23,Estudiante,3,11,4,0,7-8 horas,No saludable,Sí,11,1,Sí,1
+1895,Mujer,34,Estudiante,2,15,4,0,Menos de 5 horas,Moderado,Sí,4,5,Sí,0
+1897,Mujer,20,Estudiante,3,13,5,0,7-8 horas,Saludable,Sí,2,1,Sí,1
+1908,Mujer,25,Estudiante,4,12,2,0,5-6 horas,Moderado,No,11,1,No,0
+1911,Hombre,26,Estudiante,4,16,3,0,5-6 horas,Moderado,Sí,6,5,Sí,1
+1922,Hombre,18,Estudiante,3,16,2,0,Menos de 5 horas,No saludable,No,11,4,No,1
+1925,Mujer,24,Estudiante,3,11,2,0,7-8 horas,Saludable,Sí,9,4,No,1
+1928,Hombre,28,Estudiante,1,17,2,0,Más de 8 horas,No saludable,No,11,3,Sí,0
+1930,Hombre,34,Estudiante,3,14,5,0,7-8 horas,No saludable,Sí,8,3,No,1
+1932,Hombre,23,Estudiante,3,17,2,0,Menos de 5 horas,Moderado,Sí,6,2,No,0
+1944,Hombre,27,Estudiante,3,14,4,0,5-6 horas,No saludable,Sí,11,2,Sí,1
+1952,Mujer,19,Estudiante,1,12,2,0,Más de 8 horas,No saludable,No,3,2,Sí,0
+1960,Hombre,32,Estudiante,3,11,4,0,Menos de 5 horas,No saludable,Sí,8,1,Sí,1
+1961,Mujer,20,Estudiante,1,16,5,0,Más de 8 horas,Moderado,No,11,5,No,0
+1965,Hombre,25,Estudiante,3,14,4,0,Más de 8 horas,Saludable,Sí,9,4,No,0
+1969,Mujer,24,Estudiante,5,15,1,0,Menos de 5 horas,No saludable,Sí,2,4,No,1
+1970,Mujer,22,Estudiante,5,15,2,0,Menos de 5 horas,No saludable,Sí,5,2,Sí,1
+1985,Hombre,27,Estudiante,3,16,2,0,Más de 8 horas,Saludable,Sí,6,5,No,0
+1988,Mujer,18,Estudiante,5,16,3,0,Menos de 5 horas,Moderado,No,6,1,No,1
+1995,Hombre,23,Estudiante,1,15,5,0,Más de 8 horas,Saludable,No,9,2,No,0
+2002,Mujer,29,Estudiante,5,15,4,0,7-8 horas,Moderado,Sí,8,3,Sí,1
+2006,Mujer,18,Estudiante,1,13,1,0,7-8 horas,No saludable,Sí,8,2,No,0
+2007,Mujer,31,Estudiante,2,15,3,0,Menos de 5 horas,Moderado,No,3,1,Sí,0
+2011,Mujer,33,Estudiante,5,13,5,0,Más de 8 horas,No saludable,Sí,9,5,Sí,1
+2012,Hombre,33,Estudiante,4,11,4,0,5-6 horas,Moderado,No,5,1,No,0
+2018,Mujer,34,Estudiante,1,13,3,0,Menos de 5 horas,No saludable,Sí,9,1,No,0
+2024,Hombre,28,Estudiante,1,13,4,0,7-8 horas,Saludable,No,0,5,No,0
+2030,Hombre,20,Estudiante,4,15,3,0,5-6 horas,Moderado,Sí,11,1,No,1
+2035,Hombre,25,Estudiante,3,16,5,0,7-8 horas,No saludable,Sí,11,2,No,1
+2039,Mujer,21,Estudiante,5,14,5,0,5-6 horas,No saludable,No,1,2,No,0
+2040,Mujer,29,Estudiante,5,14,4,0,Menos de 5 horas,Saludable,Sí,11,5,No,1
+2042,Mujer,33,Estudiante,4,10,3,0,Menos de 5 horas,Saludable,No,10,4,Sí,1
+2045,Mujer,33,Estudiante,3,12,3,0,7-8 horas,Saludable,Sí,2,4,Sí,1
+2046,Mujer,21,Estudiante,1,14,5,0,5-6 horas,Moderado,No,0,4,Sí,0
+2051,Mujer,29,Estudiante,4,10,2,0,7-8 horas,No saludable,No,11,2,No,0
+2060,Hombre,31,Estudiante,1,14,1,0,Más de 8 horas,Saludable,No,12,3,Sí,0
+2063,Hombre,24,Estudiante,1,13,4,0,7-8 horas,Moderado,No,6,1,No,0
+2068,Mujer,19,Estudiante,5,15,1,0,5-6 horas,Saludable,Sí,6,2,Sí,1
+2078,Hombre,25,Estudiante,3,16,3,0,Más de 8 horas,No saludable,Sí,10,3,Sí,0
+2086,Hombre,27,Estudiante,2,15,5,0,7-8 horas,No saludable,Sí,6,1,Sí,0
+2088,Mujer,31,Estudiante,3,15,3,0,7-8 horas,Saludable,Sí,12,5,No,1
+2097,Mujer,28,Estudiante,4,14,1,0,7-8 horas,Saludable,No,1,4,Sí,0
+2104,Hombre,34,Estudiante,3,16,4,0,5-6 horas,Saludable,Sí,7,2,No,0
+2108,Hombre,20,Estudiante,3,17,1,0,7-8 horas,Saludable,Sí,9,2,Sí,1
+2120,Mujer,18,Estudiante,4,15,3,0,Menos de 5 horas,Moderado,Sí,8,5,No,1
+2127,Mujer,20,Estudiante,4,12,1,0,7-8 horas,Moderado,Sí,10,4,Sí,1
+2140,Hombre,24,Estudiante,4,13,3,0,Menos de 5 horas,Saludable,Sí,6,2,No,1
+2143,Mujer,28,Estudiante,3,17,3,0,Menos de 5 horas,Saludable,No,1,2,Sí,0
+2146,Mujer,19,Estudiante,5,11,4,0,Menos de 5 horas,Saludable,Sí,3,5,No,1
+2147,Hombre,28,Estudiante,1,11,1,0,5-6 horas,Moderado,Sí,8,5,No,1
+2150,Hombre,28,Estudiante,1,13,5,0,7-8 horas,No saludable,Sí,12,5,Sí,1
+2161,Mujer,28,Estudiante,1,16,5,0,Menos de 5 horas,Saludable,No,8,1,No,0
+2171,Mujer,19,Estudiante,1,16,2,0,Menos de 5 horas,No saludable,No,11,1,No,0
+2182,Hombre,28,Estudiante,2,17,2,0,Menos de 5 horas,No saludable,Sí,6,1,Sí,0
+2183,Mujer,21,Estudiante,3,13,1,0,Menos de 5 horas,No saludable,Sí,5,5,No,1
+2198,Mujer,19,Estudiante,1,12,4,0,5-6 horas,Saludable,No,10,3,Sí,0
+2203,Hombre,29,Estudiante,4,14,1,0,Menos de 5 horas,No saludable,No,8,2,Sí,1
+2204,Hombre,32,Estudiante,2,15,5,0,7-8 horas,Saludable,No,5,1,No,0
+2207,Hombre,26,Estudiante,4,12,2,0,Menos de 5 horas,No saludable,Sí,12,4,Sí,1
+2211,Hombre,22,Estudiante,2,13,4,0,Más de 8 horas,Moderado,Sí,7,4,No,1
+2226,Mujer,24,Estudiante,2,10,1,0,5-6 horas,Moderado,Sí,2,4,No,1
+2233,Hombre,28,Estudiante,5,14,4,0,7-8 horas,Saludable,Sí,5,4,No,0
+2238,Hombre,34,Estudiante,3,16,3,0,Más de 8 horas,Saludable,No,5,1,No,0
+2250,Hombre,20,Estudiante,3,14,4,0,7-8 horas,No saludable,Sí,11,3,No,1
+2255,Mujer,32,Estudiante,2,13,4,0,7-8 horas,Moderado,No,11,3,Sí,0
+2256,Mujer,20,Estudiante,3,16,3,0,7-8 horas,Moderado,No,2,4,Sí,1
+2260,Hombre,18,Estudiante,3,13,3,0,5-6 horas,Moderado,Sí,11,4,Sí,1
+2267,Mujer,25,Estudiante,1,14,2,0,Más de 8 horas,No saludable,Sí,7,1,Sí,0
+2270,Hombre,29,Estudiante,3,13,3,0,Menos de 5 horas,Moderado,Sí,2,1,No,0
+2288,Hombre,27,Estudiante,5,17,2,0,Menos de 5 horas,Saludable,Sí,6,4,Sí,1
+2290,Mujer,34,Estudiante,3,16,3,0,7-8 horas,Saludable,No,2,4,No,0
+2293,Hombre,32,Estudiante,1,13,3,0,Menos de 5 horas,Saludable,Sí,2,5,Sí,1
+2294,Hombre,29,Estudiante,3,14,1,0,5-6 horas,No saludable,Sí,9,4,Sí,1
+2295,Mujer,23,Estudiante,4,16,1,0,5-6 horas,Saludable,No,6,1,Sí,1
+2305,Mujer,27,Estudiante,4,10,5,0,7-8 horas,No saludable,Sí,0,4,Sí,1
+2310,Mujer,29,Estudiante,5,12,2,0,Más de 8 horas,No saludable,Sí,2,5,Sí,1
+2312,Mujer,30,Estudiante,2,14,3,0,Más de 8 horas,No saludable,Sí,11,1,Sí,1
+2314,Mujer,21,Estudiante,3,14,5,0,Más de 8 horas,No saludable,Sí,8,3,No,1
+2322,Mujer,32,Estudiante,5,14,2,0,5-6 horas,No saludable,Sí,2,5,No,1
+2325,Hombre,20,Estudiante,5,16,2,0,Menos de 5 horas,Moderado,Sí,3,5,Sí,1
+2330,Mujer,25,Estudiante,5,15,2,0,Menos de 5 horas,Moderado,Sí,1,5,Sí,1
+2343,Hombre,31,Estudiante,1,11,1,0,Más de 8 horas,Saludable,Sí,10,2,Sí,0
+2348,Hombre,20,Estudiante,5,14,5,0,Menos de 5 horas,No saludable,Sí,12,2,No,1
+2351,Mujer,23,Estudiante,3,16,3,0,7-8 horas,No saludable,Sí,5,5,Sí,1
+2358,Hombre,31,Estudiante,1,16,4,0,Más de 8 horas,Moderado,No,2,1,No,0
+2364,Mujer,34,Estudiante,1,13,5,0,7-8 horas,Moderado,No,1,3,No,0
+2372,Hombre,24,Estudiante,3,14,2,0,7-8 horas,No saludable,Sí,10,4,No,1
+2376,Hombre,32,Estudiante,3,13,4,0,7-8 horas,Moderado,Sí,9,3,Sí,1
+2385,Hombre,30,Estudiante,4,13,1,0,Más de 8 horas,Saludable,Sí,0,3,Sí,0
+2399,Mujer,18,Estudiante,4,15,1,0,Menos de 5 horas,No saludable,Sí,7,2,Sí,0
+2405,Hombre,33,Estudiante,2,14,4,0,7-8 horas,Saludable,No,12,2,No,0
+2406,Hombre,34,Estudiante,4,15,1,0,7-8 horas,No saludable,Sí,11,2,Sí,1
+2407,Mujer,20,Estudiante,3,12,4,0,5-6 horas,Saludable,Sí,4,2,Sí,0
+2408,Mujer,22,Estudiante,5,15,3,0,5-6 horas,Moderado,Sí,9,5,No,1
+2418,Hombre,34,Estudiante,1,15,3,0,7-8 horas,Moderado,No,11,3,Sí,0
+2423,Mujer,30,Estudiante,5,14,1,0,5-6 horas,No saludable,Sí,10,3,No,1
+2425,Hombre,19,Estudiante,3,10,4,0,Más de 8 horas,Moderado,Sí,10,3,No,1
+2431,Mujer,19,Estudiante,4,11,1,0,Más de 8 horas,Saludable,No,0,4,Sí,0
+2432,Hombre,20,Estudiante,5,11,2,0,Más de 8 horas,No saludable,Sí,5,5,No,1
+2439,Hombre,25,Estudiante,4,14,2,0,Menos de 5 horas,Saludable,Sí,2,5,No,1
+2444,Mujer,30,Estudiante,5,13,5,0,Menos de 5 horas,Moderado,No,12,1,No,0
+2460,Hombre,26,Estudiante,4,16,1,0,Menos de 5 horas,Moderado,Sí,0,5,No,1
+2461,Mujer,21,Estudiante,1,11,2,0,Más de 8 horas,No saludable,No,10,2,No,0
+2471,Mujer,28,Estudiante,4,14,1,0,Menos de 5 horas,No saludable,Sí,12,3,No,1
+2474,Hombre,18,Estudiante,3,16,5,0,7-8 horas,No saludable,Sí,5,5,Sí,1
+2482,Hombre,24,Estudiante,2,11,1,0,Menos de 5 horas,No saludable,Sí,10,5,No,1
+2486,Hombre,29,Estudiante,4,16,5,0,Más de 8 horas,No saludable,No,1,2,Sí,0
+2490,Hombre,28,Estudiante,5,15,5,0,7-8 horas,No saludable,Sí,8,2,No,1
+2494,Hombre,31,Estudiante,3,17,5,0,Menos de 5 horas,Moderado,No,12,3,No,0
+2496,Hombre,25,Estudiante,5,14,2,0,Menos de 5 horas,No saludable,Sí,7,2,Sí,1
+2500,Hombre,28,Estudiante,4,13,5,0,7-8 horas,Moderado,No,0,2,No,0
+2548,Hombre,33,Estudiante,1,13,2,0,5-6 horas,Moderado,No,3,4,Sí,0
+2564,Hombre,30,Estudiante,4,14,2,0,Más de 8 horas,Moderado,Sí,6,5,No,1
+2568,Mujer,28,Estudiante,2,12,5,0,Más de 8 horas,No saludable,No,12,5,Sí,1
+2569,Hombre,20,Estudiante,4,14,3,0,Menos de 5 horas,No saludable,Sí,8,5,Sí,1
+2574,Mujer,18,Estudiante,1,15,3,0,7-8 horas,Saludable,No,11,2,Sí,0
+2576,Mujer,29,Estudiante,2,16,5,0,7-8 horas,Moderado,No,4,2,Sí,0
+2581,Hombre,28,Estudiante,4,15,2,0,Menos de 5 horas,Moderado,Sí,8,1,Sí,1
+2585,Mujer,24,Estudiante,1,16,2,0,7-8 horas,Moderado,Sí,10,3,Sí,0
+2589,Hombre,25,Estudiante,5,13,2,0,Menos de 5 horas,No saludable,No,10,3,No,0
+2591,Hombre,21,Estudiante,1,14,5,0,Más de 8 horas,Saludable,No,4,5,Sí,0
+2592,Hombre,21,Estudiante,1,13,1,0,5-6 horas,Moderado,Sí,12,1,Sí,0
+2605,Mujer,28,Estudiante,5,15,2,0,5-6 horas,No saludable,Sí,8,4,No,1
+2608,Mujer,34,Estudiante,5,13,5,0,Menos de 5 horas,No saludable,No,11,4,No,0
+2622,Mujer,29,Estudiante,4,11,2,0,Menos de 5 horas,No saludable,Sí,11,3,No,1
+2629,Mujer,19,Estudiante,3,17,2,0,5-6 horas,Saludable,No,9,4,Sí,0
+2633,Mujer,19,Estudiante,1,16,1,0,Más de 8 horas,No saludable,No,0,5,No,0
+2652,Hombre,21,Estudiante,5,17,5,0,7-8 horas,No saludable,Sí,4,3,No,1
+2654,Hombre,23,Estudiante,4,12,3,0,Menos de 5 horas,Moderado,Sí,9,5,No,1
+2660,Mujer,25,Estudiante,2,14,2,0,5-6 horas,Moderado,Sí,4,4,No,1
+2663,Mujer,29,Estudiante,4,16,2,0,5-6 horas,No saludable,Sí,9,3,No,1
+2672,Hombre,27,Estudiante,4,15,4,0,Más de 8 horas,Moderado,Sí,6,5,No,1
+2674,Mujer,19,Estudiante,5,15,1,0,Menos de 5 horas,Moderado,Sí,11,5,Sí,1
+2681,Hombre,26,Estudiante,3,14,4,0,Menos de 5 horas,Moderado,Sí,4,5,No,0
+2685,Mujer,19,Estudiante,5,14,1,0,Más de 8 horas,Saludable,Sí,2,3,No,1
+2687,Mujer,22,Estudiante,3,14,1,0,Menos de 5 horas,Moderado,No,0,3,No,0
+2689,Mujer,23,Estudiante,1,13,4,0,Más de 8 horas,No saludable,Sí,7,5,No,0
+2695,Hombre,29,Estudiante,4,13,1,0,Menos de 5 horas,No saludable,Sí,2,5,No,1
+2696,Hombre,21,Estudiante,1,16,1,0,5-6 horas,Saludable,Sí,8,2,No,1
+2704,Hombre,24,Estudiante,4,14,3,0,5-6 horas,Moderado,Sí,8,2,No,1
+2710,Hombre,24,Estudiante,2,17,2,0,5-6 horas,Saludable,No,10,1,No,1
+2712,Hombre,32,Estudiante,4,11,5,0,Más de 8 horas,Moderado,No,12,3,Sí,1
+2721,Mujer,22,Estudiante,3,16,4,0,Menos de 5 horas,No saludable,Sí,6,2,Sí,1
+2724,Hombre,23,Estudiante,3,12,3,0,7-8 horas,No saludable,No,1,1,No,0
+2726,Mujer,33,Estudiante,4,10,5,0,Menos de 5 horas,Moderado,No,11,4,No,1
+2743,Mujer,27,Estudiante,4,12,3,0,5-6 horas,Saludable,Sí,4,5,No,1
+2749,Mujer,26,Estudiante,3,14,3,0,7-8 horas,Moderado,No,7,2,Sí,0
+2754,Hombre,24,Estudiante,2,11,5,0,Menos de 5 horas,No saludable,Sí,10,3,Sí,1
+2755,Hombre,33,Estudiante,5,15,2,0,7-8 horas,Moderado,Sí,4,4,Sí,1
+2759,Hombre,33,Estudiante,4,16,2,0,Menos de 5 horas,Moderado,Sí,10,5,Sí,1
+2766,Mujer,25,Estudiante,3,16,5,0,7-8 horas,No saludable,Sí,0,3,No,1
+2770,Mujer,27,Estudiante,2,11,2,0,Más de 8 horas,No saludable,No,12,5,Sí,1
+2772,Mujer,25,Estudiante,3,15,2,0,7-8 horas,No saludable,Sí,5,5,Sí,1
+2774,Hombre,28,Estudiante,5,16,2,0,7-8 horas,Moderado,Sí,11,2,No,1
+2777,Mujer,21,Estudiante,1,16,3,0,5-6 horas,Moderado,Sí,10,5,No,1
+2779,Hombre,29,Estudiante,2,16,5,0,5-6 horas,No saludable,Sí,3,2,No,0
+2780,Mujer,32,Estudiante,4,11,4,0,5-6 horas,Moderado,Sí,11,3,No,1
+2781,Hombre,34,Estudiante,3,17,3,0,Más de 8 horas,Moderado,No,12,3,No,0
+2789,Hombre,25,Estudiante,5,17,3,0,7-8 horas,Saludable,No,11,5,Sí,1
+2793,Mujer,21,Estudiante,1,16,5,0,Más de 8 horas,Moderado,No,8,3,No,0
+2797,Hombre,19,Estudiante,5,10,3,0,Más de 8 horas,No saludable,Sí,10,3,Sí,1
+2798,Hombre,22,Estudiante,3,16,4,0,5-6 horas,Moderado,Sí,7,1,Sí,0
+2799,Hombre,33,Estudiante,2,14,3,0,7-8 horas,Moderado,No,12,3,Sí,0
+2804,Mujer,19,Estudiante,4,11,3,0,Menos de 5 horas,No saludable,Sí,11,5,Sí,1
+2805,Hombre,21,Estudiante,4,11,4,0,Menos de 5 horas,Saludable,Sí,6,5,Sí,1
+2811,Hombre,20,Estudiante,3,16,3,0,Menos de 5 horas,Saludable,Sí,9,5,No,1
+2814,Mujer,20,Estudiante,1,16,4,0,7-8 horas,Saludable,No,1,2,No,0
+2815,Hombre,18,Estudiante,4,14,3,0,7-8 horas,Moderado,Sí,12,1,Sí,1
+2816,Mujer,21,Estudiante,5,14,4,0,5-6 horas,Moderado,No,9,4,No,0
+2819,Hombre,21,Estudiante,5,13,4,0,Menos de 5 horas,Saludable,No,8,5,Sí,1
+2841,Mujer,21,Estudiante,1,15,2,0,Más de 8 horas,No saludable,Sí,2,2,No,0
+2850,Hombre,29,Estudiante,5,14,3,0,7-8 horas,Moderado,Sí,12,3,Sí,1
+2854,Mujer,28,Estudiante,1,16,2,0,5-6 horas,No saludable,No,0,1,Sí,0
+2858,Hombre,33,Estudiante,4,14,1,0,Más de 8 horas,Moderado,Sí,4,3,Sí,1
+2864,Hombre,24,Estudiante,5,11,5,0,5-6 horas,No saludable,Sí,6,4,Sí,1
+2867,Hombre,29,Estudiante,5,17,1,0,Menos de 5 horas,Moderado,Sí,4,1,No,1
+2869,Hombre,32,Estudiante,1,12,5,0,Más de 8 horas,Moderado,Sí,5,5,No,0
+2871,Hombre,32,Estudiante,5,17,3,0,7-8 horas,Moderado,Sí,11,5,Sí,1
+2875,Hombre,26,Estudiante,4,15,3,0,5-6 horas,No saludable,Sí,10,2,No,1
+2881,Mujer,23,Estudiante,1,13,1,0,7-8 horas,Saludable,Sí,0,1,No,0
+2886,Mujer,29,Estudiante,5,15,1,0,Más de 8 horas,Moderado,Sí,8,2,Sí,1
+2903,Hombre,27,Estudiante,4,13,5,0,5-6 horas,No saludable,Sí,11,5,No,1
+2907,Hombre,31,Estudiante,2,11,4,0,Menos de 5 horas,No saludable,No,12,3,Sí,0
+2908,Mujer,32,Estudiante,2,17,1,0,Más de 8 horas,No saludable,No,8,3,No,0
+2916,Mujer,31,Estudiante,1,16,3,0,7-8 horas,Saludable,No,8,1,No,0
+2918,Hombre,27,Estudiante,4,15,4,0,Más de 8 horas,Moderado,Sí,11,1,Sí,1
+2941,Mujer,21,Estudiante,5,16,2,0,Menos de 5 horas,No saludable,Sí,10,5,Sí,1
+2945,Mujer,20,Estudiante,4,12,1,0,7-8 horas,Saludable,Sí,7,5,No,1
+2951,Mujer,25,Estudiante,5,11,3,0,Menos de 5 horas,No saludable,Sí,11,5,No,1
+2962,Mujer,31,Estudiante,5,16,1,0,5-6 horas,Moderado,No,5,5,Sí,1
+2968,Mujer,24,Estudiante,2,17,2,0,Menos de 5 horas,Moderado,Sí,0,2,No,0
+2970,Mujer,18,Estudiante,3,11,1,0,Más de 8 horas,Moderado,Sí,8,4,No,1
+2974,Hombre,33,Estudiante,2,14,4,0,7-8 horas,No saludable,No,6,5,No,0
+2977,Hombre,25,Estudiante,4,13,3,0,Más de 8 horas,Saludable,Sí,2,3,No,0
+2978,Hombre,26,Estudiante,2,13,3,0,Menos de 5 horas,No saludable,Sí,12,3,No,1
+2980,Mujer,29,Estudiante,3,14,3,0,Menos de 5 horas,No saludable,Sí,11,2,Sí,1
+2981,Mujer,21,Estudiante,3,12,4,0,Menos de 5 horas,Moderado,Sí,11,5,Sí,1
+2982,Mujer,18,Estudiante,4,11,2,0,Más de 8 horas,No saludable,Sí,3,3,Sí,1
+2999,Hombre,18,Estudiante,5,11,1,0,5-6 horas,Moderado,Sí,10,2,No,1
+3016,Hombre,18,Estudiante,5,16,5,0,5-6 horas,Saludable,Sí,6,4,Sí,1
+3024,Hombre,31,Estudiante,1,16,4,0,7-8 horas,No saludable,No,2,2,No,0
+3033,Hombre,31,Estudiante,5,10,2,0,Más de 8 horas,Moderado,Sí,12,5,No,1
+3034,Mujer,21,Estudiante,5,17,4,0,Menos de 5 horas,No saludable,Sí,12,4,No,1
+3037,Hombre,24,Estudiante,1,11,3,0,Menos de 5 horas,Saludable,Sí,7,5,Sí,1
+3038,Hombre,31,Estudiante,4,16,5,0,Menos de 5 horas,Saludable,Sí,6,3,No,1
+3042,Hombre,24,Estudiante,2,14,4,0,Menos de 5 horas,No saludable,Sí,9,2,No,0
+3044,Hombre,18,Estudiante,5,16,5,0,Menos de 5 horas,Moderado,Sí,7,5,Sí,1
+3054,Hombre,20,Estudiante,5,17,4,0,Menos de 5 horas,No saludable,Sí,6,2,No,1
+3067,Mujer,30,Estudiante,3,17,2,0,5-6 horas,Moderado,No,10,3,Sí,1
+3078,Mujer,20,Estudiante,4,12,3,0,Menos de 5 horas,No saludable,No,8,1,No,1
+3081,Hombre,20,Estudiante,3,11,3,0,5-6 horas,No saludable,No,7,3,No,0
+3086,Hombre,19,Estudiante,1,12,3,0,Menos de 5 horas,Moderado,No,2,2,No,0
+3091,Hombre,23,Estudiante,5,13,4,0,Más de 8 horas,Moderado,Sí,10,4,No,1
+3101,Hombre,29,Estudiante,5,14,1,0,7-8 horas,Moderado,Sí,9,5,No,1
+3110,Mujer,19,Estudiante,1,16,4,0,Más de 8 horas,Saludable,No,8,2,Sí,0
+3114,Hombre,28,Estudiante,3,11,1,0,Menos de 5 horas,Moderado,Sí,12,2,Sí,1
+3115,Mujer,32,Estudiante,5,17,5,0,Menos de 5 horas,No saludable,Sí,12,5,Sí,1
+3121,Mujer,25,Estudiante,4,14,2,0,Más de 8 horas,Moderado,No,9,2,No,0
+3124,Mujer,29,Estudiante,2,14,3,0,Menos de 5 horas,Saludable,Sí,12,5,No,1
+3128,Mujer,23,Estudiante,5,11,5,0,Menos de 5 horas,No saludable,No,11,4,No,1
+3135,Mujer,24,Estudiante,3,14,3,0,7-8 horas,Saludable,Sí,1,2,No,1
+3136,Mujer,18,Estudiante,5,14,1,0,7-8 horas,Saludable,Sí,9,1,Sí,1
+3139,Hombre,31,Estudiante,1,17,5,0,5-6 horas,No saludable,No,6,3,Sí,0
+3140,Mujer,26,Estudiante,4,17,4,0,5-6 horas,Moderado,Sí,9,2,Sí,1
+3154,Hombre,32,Estudiante,5,13,1,0,Menos de 5 horas,Moderado,Sí,4,3,Sí,1
+3157,Mujer,20,Estudiante,4,17,4,0,Menos de 5 horas,No saludable,Sí,9,5,No,1
+3159,Mujer,31,Estudiante,5,14,5,0,Más de 8 horas,No saludable,No,11,3,No,1
+3161,Mujer,30,Estudiante,4,10,5,0,Menos de 5 horas,Moderado,Sí,8,2,Sí,0
+3162,Mujer,20,Estudiante,1,14,3,0,Menos de 5 horas,Moderado,Sí,5,5,No,1
+3166,Hombre,33,Estudiante,3,15,3,0,Menos de 5 horas,No saludable,No,12,5,No,0
+3170,Hombre,26,Estudiante,3,12,4,0,7-8 horas,No saludable,Sí,3,3,No,0
+3175,Hombre,33,Estudiante,2,14,3,0,7-8 horas,No saludable,No,8,1,No,0
+3177,Hombre,27,Estudiante,4,16,4,0,Menos de 5 horas,Saludable,No,9,3,Sí,0
+3184,Mujer,24,Estudiante,1,12,3,0,5-6 horas,Saludable,No,10,1,No,0
+3185,Mujer,20,Estudiante,5,12,5,0,Menos de 5 horas,Saludable,Sí,9,2,Sí,1
+3186,Mujer,31,Estudiante,2,15,4,0,7-8 horas,No saludable,No,11,2,Sí,0
+3193,Hombre,22,Estudiante,2,16,3,0,Menos de 5 horas,Moderado,Sí,11,5,Sí,1
+3194,Hombre,29,Estudiante,3,10,4,0,Más de 8 horas,Moderado,Sí,11,1,Sí,0
+3195,Mujer,32,Estudiante,4,13,3,0,Más de 8 horas,Moderado,Sí,4,1,Sí,0
+3196,Mujer,28,Estudiante,1,14,1,0,Más de 8 horas,Saludable,Sí,8,4,Sí,1
+3198,Hombre,32,Estudiante,5,14,1,0,Menos de 5 horas,Saludable,Sí,11,3,Sí,1
+3209,Mujer,34,Estudiante,5,11,5,0,Más de 8 horas,Moderado,No,1,2,No,0
+3222,Hombre,32,Estudiante,5,15,2,0,Más de 8 horas,Moderado,Sí,12,3,Sí,1
+3226,Hombre,23,Estudiante,1,13,1,0,5-6 horas,Moderado,Sí,9,1,Sí,1
+3227,Hombre,28,Estudiante,4,11,4,0,Más de 8 horas,No saludable,Sí,10,5,Sí,1
+3228,Mujer,33,Estudiante,1,17,4,0,7-8 horas,Saludable,Sí,12,2,Sí,0
+3234,Hombre,27,Estudiante,1,15,1,0,5-6 horas,Saludable,No,8,2,No,0
+3235,Mujer,25,Estudiante,5,15,2,0,Más de 8 horas,No saludable,Sí,8,5,Sí,1
+3245,Mujer,28,Estudiante,3,15,1,0,Más de 8 horas,Saludable,No,2,3,Sí,0
+3253,Hombre,21,Estudiante,2,16,2,0,Menos de 5 horas,Moderado,No,1,1,No,0
+3258,Hombre,23,Estudiante,5,15,3,0,Más de 8 horas,No saludable,Sí,2,4,Sí,1
+3260,Hombre,25,Estudiante,2,15,3,0,Menos de 5 horas,No saludable,No,6,3,Sí,1
+3261,Hombre,29,Estudiante,4,14,1,0,7-8 horas,No saludable,Sí,6,4,Sí,1
+3266,Mujer,33,Estudiante,3,13,1,0,7-8 horas,Moderado,Sí,7,1,Sí,0
+3268,Mujer,30,Estudiante,4,16,2,0,5-6 horas,Moderado,Sí,11,5,No,1
+3271,Hombre,24,Estudiante,4,11,1,0,Más de 8 horas,Moderado,No,6,5,No,1
+3273,Hombre,19,Estudiante,2,15,1,0,Más de 8 horas,No saludable,Sí,5,5,No,1
+3281,Mujer,20,Estudiante,5,15,1,0,5-6 horas,Moderado,Sí,10,5,No,1
+3282,Mujer,19,Estudiante,4,16,2,0,7-8 horas,No saludable,Sí,4,3,No,1
+3289,Hombre,24,Estudiante,1,14,2,0,Menos de 5 horas,Saludable,No,10,1,Sí,0
+3301,Mujer,31,Estudiante,5,15,1,0,7-8 horas,Moderado,Sí,8,4,Sí,1
+3304,Mujer,24,Estudiante,4,13,1,0,5-6 horas,No saludable,Sí,12,5,Sí,1
+3305,Mujer,29,Estudiante,3,13,1,0,Menos de 5 horas,Moderado,No,11,2,No,1
+3312,Hombre,33,Estudiante,2,14,4,0,Menos de 5 horas,No saludable,No,7,2,No,0
+3319,Mujer,33,Estudiante,1,16,1,0,7-8 horas,Saludable,No,12,2,No,0
+3331,Mujer,23,Estudiante,4,17,1,0,Más de 8 horas,Moderado,Sí,2,3,Sí,0
+3337,Hombre,32,Estudiante,3,13,3,0,7-8 horas,No saludable,Sí,8,4,Sí,1
+3339,Mujer,23,Estudiante,2,17,4,0,7-8 horas,Moderado,Sí,12,3,Sí,1
+3341,Hombre,25,Estudiante,5,12,1,0,7-8 horas,Saludable,Sí,11,5,No,1
+3343,Mujer,31,Estudiante,3,12,2,0,7-8 horas,No saludable,Sí,4,5,Sí,1
+3344,Hombre,28,Estudiante,5,12,4,0,7-8 horas,Moderado,Sí,9,4,No,1
+3345,Mujer,21,Estudiante,5,12,2,0,Menos de 5 horas,Saludable,Sí,6,4,Sí,1
+3350,Mujer,28,Estudiante,5,11,3,0,Más de 8 horas,No saludable,Sí,6,3,Sí,1
+3352,Hombre,23,Estudiante,3,14,4,0,7-8 horas,Moderado,No,7,4,Sí,0
+3357,Hombre,23,Estudiante,5,15,1,0,5-6 horas,Moderado,Sí,3,5,No,1
+3359,Hombre,21,Estudiante,4,15,4,0,5-6 horas,No saludable,Sí,8,5,No,1
+3377,Hombre,28,Estudiante,2,10,1,0,Menos de 5 horas,Saludable,Sí,9,3,No,0
+3379,Mujer,25,Estudiante,1,14,2,0,7-8 horas,No saludable,Sí,6,2,Sí,0
+3385,Mujer,29,Estudiante,2,14,2,0,5-6 horas,Moderado,No,0,2,No,1
+3390,Hombre,30,Estudiante,3,15,4,0,7-8 horas,Saludable,No,7,3,No,0
+3393,Mujer,28,Estudiante,4,14,4,0,Menos de 5 horas,No saludable,Sí,9,4,No,1
+3401,Hombre,19,Estudiante,3,15,5,0,5-6 horas,Saludable,Sí,12,5,No,1
+3405,Mujer,24,Estudiante,5,11,5,0,Más de 8 horas,Moderado,No,0,3,Sí,0
+3416,Hombre,20,Estudiante,1,12,2,0,7-8 horas,Moderado,Sí,10,5,Sí,1
+3420,Hombre,34,Estudiante,4,14,3,0,7-8 horas,No saludable,Sí,5,3,Sí,0
+3429,Mujer,25,Estudiante,5,11,5,0,Menos de 5 horas,Moderado,Sí,8,5,No,1
+3430,Hombre,24,Estudiante,1,15,4,0,7-8 horas,No saludable,No,8,2,No,1
+3436,Hombre,23,Estudiante,1,17,4,0,5-6 horas,No saludable,No,4,5,No,0
+3437,Mujer,32,Estudiante,5,15,2,0,Menos de 5 horas,Saludable,No,9,1,Sí,1
+3438,Hombre,18,Estudiante,4,16,1,0,Más de 8 horas,Saludable,No,10,2,No,1
+3442,Hombre,21,Estudiante,4,11,5,0,7-8 horas,Moderado,Sí,7,5,No,0
+3456,Mujer,32,Estudiante,1,16,5,0,Menos de 5 horas,Moderado,No,11,4,No,0
+3457,Hombre,30,Estudiante,3,17,2,0,Más de 8 horas,No saludable,No,6,5,No,1
+3461,Mujer,25,Estudiante,2,14,4,0,Menos de 5 horas,Moderado,No,5,3,Sí,0
+3464,Mujer,28,Estudiante,5,17,3,0,5-6 horas,No saludable,Sí,6,5,Sí,1
+3466,Mujer,32,Estudiante,4,15,2,0,Menos de 5 horas,No saludable,No,12,1,No,1
+3469,Hombre,21,Estudiante,4,12,3,0,7-8 horas,No saludable,No,7,5,No,1
+3477,Mujer,20,Estudiante,3,12,4,0,5-6 horas,Saludable,No,7,4,No,0
+3483,Hombre,23,Estudiante,1,16,5,0,7-8 horas,No saludable,Sí,4,3,Sí,0
+3490,Hombre,32,Estudiante,4,14,3,0,5-6 horas,Moderado,Sí,12,5,No,1
+3491,Hombre,25,Estudiante,3,14,1,0,5-6 horas,No saludable,Sí,4,4,Sí,1
+3493,Mujer,29,Estudiante,2,17,4,0,7-8 horas,Saludable,Sí,6,2,No,1
+3498,Hombre,20,Estudiante,5,12,1,0,7-8 horas,Saludable,Sí,11,4,No,1
+3500,Hombre,30,Estudiante,2,14,3,0,5-6 horas,No saludable,No,6,5,No,1
+3506,Hombre,28,Estudiante,3,14,4,0,7-8 horas,No saludable,Sí,1,4,No,1
+3515,Hombre,18,Estudiante,1,13,2,0,Menos de 5 horas,Moderado,Sí,12,3,No,0
+3524,Mujer,28,Estudiante,4,13,5,0,Menos de 5 horas,No saludable,Sí,6,4,Sí,1
+3527,Hombre,19,Estudiante,5,12,3,0,Menos de 5 horas,Moderado,Sí,12,3,Sí,1
+3539,Hombre,23,Estudiante,1,13,3,0,5-6 horas,Moderado,Sí,8,4,Sí,0
+3546,Hombre,31,Estudiante,5,13,2,0,Menos de 5 horas,No saludable,Sí,6,2,No,1
+3572,Mujer,20,Estudiante,1,13,3,0,7-8 horas,Moderado,No,3,1,Sí,0
+3573,Mujer,21,Estudiante,5,12,1,0,7-8 horas,No saludable,Sí,10,5,Sí,1
+3580,Hombre,27,Estudiante,5,13,5,0,5-6 horas,No saludable,Sí,9,5,No,1
+3586,Mujer,23,Estudiante,1,16,4,0,Más de 8 horas,No saludable,Sí,8,5,No,0
+3588,Hombre,27,Estudiante,5,10,2,0,Más de 8 horas,Saludable,No,1,2,No,0
+3590,Mujer,32,Estudiante,5,11,3,0,5-6 horas,No saludable,Sí,8,4,No,1
+3594,Mujer,33,Estudiante,4,16,2,0,7-8 horas,No saludable,No,11,5,Sí,1
+3596,Hombre,24,Estudiante,5,16,1,0,5-6 horas,Saludable,Sí,8,4,No,1
+3599,Mujer,27,Estudiante,2,15,2,0,Más de 8 horas,Saludable,Sí,7,5,No,1
+3601,Hombre,22,Estudiante,1,16,1,0,5-6 horas,Moderado,No,6,4,No,1
+3607,Mujer,23,Estudiante,5,14,1,0,7-8 horas,No saludable,No,0,5,Sí,0
+3611,Mujer,27,Estudiante,5,16,4,0,Más de 8 horas,Moderado,Sí,11,5,Sí,1
+3612,Mujer,28,Estudiante,2,13,3,0,Menos de 5 horas,Moderado,Sí,7,2,No,1
+3617,Mujer,23,Estudiante,4,13,2,0,7-8 horas,No saludable,No,10,4,No,1
+3639,Hombre,34,Estudiante,4,16,5,0,7-8 horas,Saludable,Sí,0,1,Sí,0
+3641,Hombre,28,Estudiante,5,12,2,0,Menos de 5 horas,No saludable,Sí,8,3,Sí,1
+3643,Hombre,27,Estudiante,1,10,3,0,5-6 horas,No saludable,No,10,2,Sí,1
+3644,Hombre,33,Estudiante,3,10,4,0,7-8 horas,Saludable,No,11,2,No,0
+3651,Mujer,30,Estudiante,2,15,1,0,Menos de 5 horas,Saludable,No,1,5,No,0
+3652,Mujer,20,Estudiante,3,12,3,0,7-8 horas,Moderado,Sí,6,3,No,1
+3656,Hombre,23,Estudiante,5,15,2,0,Menos de 5 horas,No saludable,Sí,12,5,Sí,1
+3660,Hombre,31,Estudiante,1,15,3,0,Menos de 5 horas,No saludable,Sí,12,4,Sí,1
+3670,Hombre,25,Estudiante,4,11,2,0,Menos de 5 horas,Moderado,Sí,12,2,No,1
+3674,Mujer,33,Estudiante,4,16,4,0,Menos de 5 horas,No saludable,Sí,2,3,Sí,1
+3682,Mujer,23,Estudiante,2,14,3,0,5-6 horas,Saludable,Sí,8,4,No,1
+3684,Mujer,21,Estudiante,4,17,1,0,Menos de 5 horas,Moderado,No,9,2,Sí,0
+3688,Mujer,34,Estudiante,3,11,2,0,7-8 horas,No saludable,No,11,1,No,0
+3691,Hombre,30,Estudiante,5,14,2,0,Más de 8 horas,No saludable,Sí,12,3,Sí,1
+3700,Mujer,27,Estudiante,5,15,3,0,Menos de 5 horas,No saludable,Sí,7,3,Sí,1
+3705,Hombre,18,Estudiante,3,10,1,0,Menos de 5 horas,Saludable,Sí,10,4,No,1
+3707,Mujer,24,Estudiante,4,15,2,0,Más de 8 horas,Saludable,Sí,5,4,No,1
+3710,Hombre,24,Estudiante,4,16,4,0,5-6 horas,Moderado,Sí,6,2,No,1
+3727,Hombre,28,Estudiante,5,15,2,0,5-6 horas,Moderado,Sí,7,5,Sí,1
+3728,Hombre,32,Estudiante,5,12,1,0,Menos de 5 horas,No saludable,Sí,5,3,No,1
+3730,Hombre,29,Estudiante,3,13,3,0,Más de 8 horas,No saludable,No,0,5,Sí,0
+3737,Mujer,18,Estudiante,3,10,3,0,Menos de 5 horas,No saludable,Sí,7,1,Sí,1
+3739,Mujer,29,Estudiante,2,16,4,0,Más de 8 horas,No saludable,Sí,0,2,Sí,0
+3741,Hombre,21,Estudiante,2,17,4,0,5-6 horas,No saludable,Sí,1,3,No,0
+3754,Hombre,21,Estudiante,5,17,1,0,7-8 horas,No saludable,No,12,5,No,1
+3755,Hombre,22,Estudiante,2,13,5,0,Menos de 5 horas,Moderado,Sí,7,1,No,1
+3763,Mujer,24,Estudiante,5,12,1,0,7-8 horas,No saludable,Sí,11,3,No,1
+3769,Mujer,22,Estudiante,5,12,4,0,5-6 horas,No saludable,Sí,3,4,Sí,1
+3781,Hombre,19,Estudiante,4,13,3,0,7-8 horas,No saludable,Sí,4,3,No,0
+3788,Mujer,25,Estudiante,1,14,4,0,Más de 8 horas,Moderado,No,12,4,Sí,0
+3792,Hombre,28,Estudiante,5,14,2,0,Más de 8 horas,No saludable,Sí,11,3,No,1
+3794,Hombre,25,Estudiante,1,14,5,0,7-8 horas,Saludable,No,0,2,No,0
+3801,Hombre,18,Estudiante,5,17,4,0,5-6 horas,No saludable,Sí,10,5,Sí,1
+3812,Hombre,18,Estudiante,5,16,3,0,Más de 8 horas,Saludable,No,2,4,Sí,0
+3814,Mujer,24,Estudiante,2,12,5,0,5-6 horas,Moderado,Sí,6,2,Sí,1
+3817,Hombre,29,Estudiante,2,16,2,0,5-6 horas,No saludable,No,8,1,No,0
+3818,Hombre,20,Estudiante,5,11,3,0,Menos de 5 horas,No saludable,Sí,11,5,No,1
+3828,Mujer,27,Estudiante,4,14,3,0,Más de 8 horas,No saludable,Sí,11,1,No,1
+3831,Hombre,31,Estudiante,1,16,4,0,5-6 horas,Saludable,Sí,2,3,No,0
+3844,Hombre,34,Estudiante,4,14,3,0,Menos de 5 horas,Moderado,No,10,1,Sí,0
+3845,Hombre,23,Estudiante,4,11,1,0,7-8 horas,Saludable,No,11,4,No,0
+3852,Mujer,23,Estudiante,5,12,3,0,5-6 horas,Moderado,No,1,1,Sí,0
+3857,Mujer,20,Estudiante,4,13,4,0,Menos de 5 horas,No saludable,No,7,5,No,0
+3862,Hombre,24,Estudiante,3,16,3,0,Más de 8 horas,Saludable,Sí,10,4,No,1
+3865,Hombre,19,Estudiante,1,14,2,0,5-6 horas,Moderado,No,0,1,Sí,0
+3870,Hombre,31,Estudiante,5,14,5,0,Más de 8 horas,Moderado,Sí,6,5,No,1
+3874,Mujer,23,Estudiante,1,14,2,0,5-6 horas,No saludable,Sí,10,3,No,1
+3880,Hombre,26,Estudiante,3,15,5,0,Más de 8 horas,Moderado,Sí,2,1,No,0
+3885,Hombre,31,Estudiante,5,13,3,0,5-6 horas,Moderado,No,11,3,No,1
+3887,Hombre,23,Estudiante,5,15,1,0,5-6 horas,Moderado,Sí,8,3,No,0
+3888,Hombre,29,Estudiante,5,14,1,0,7-8 horas,Moderado,No,9,4,No,1
+3895,Hombre,21,Estudiante,5,14,2,0,5-6 horas,Moderado,Sí,11,4,Sí,1
+3920,Hombre,32,Estudiante,1,12,3,0,Menos de 5 horas,Saludable,No,8,5,No,0
+3921,Hombre,26,Estudiante,1,10,4,0,5-6 horas,Saludable,Sí,7,2,No,0
+3924,Hombre,25,Estudiante,1,14,3,0,Menos de 5 horas,Saludable,No,9,2,Sí,0
+3928,Mujer,22,Estudiante,1,14,1,0,Menos de 5 horas,Moderado,Sí,10,5,No,1
+3931,Mujer,29,Estudiante,3,14,2,0,7-8 horas,No saludable,No,1,2,Sí,0
+3934,Mujer,30,Estudiante,2,16,3,0,5-6 horas,Moderado,Sí,7,3,No,0
+3939,Mujer,33,Estudiante,2,13,2,0,Más de 8 horas,Moderado,No,8,5,No,0
+3940,Hombre,26,Estudiante,1,15,1,0,5-6 horas,Moderado,Sí,7,4,No,1
+3951,Hombre,22,Estudiante,1,15,2,0,7-8 horas,No saludable,Sí,11,5,No,1
+3961,Hombre,29,Estudiante,3,14,4,0,Menos de 5 horas,No saludable,No,11,2,No,1
+3962,Mujer,24,Estudiante,4,13,2,0,Menos de 5 horas,Saludable,Sí,12,3,Sí,1
+3963,Mujer,23,Estudiante,1,14,1,0,Más de 8 horas,Moderado,No,0,3,No,0
+3971,Hombre,23,Estudiante,2,16,4,0,7-8 horas,Moderado,Sí,8,3,No,0
+3983,Hombre,18,Estudiante,4,12,4,0,Más de 8 horas,Moderado,No,2,2,Sí,1
+3987,Mujer,18,Estudiante,2,16,5,0,Más de 8 horas,Moderado,Sí,3,3,Sí,1
+3990,Hombre,33,Estudiante,3,14,1,0,5-6 horas,No saludable,No,7,2,No,0
+3999,Hombre,21,Estudiante,1,11,4,0,Menos de 5 horas,Moderado,No,0,2,No,0
+4001,Hombre,33,Estudiante,1,13,2,0,7-8 horas,Moderado,Sí,1,1,Sí,0
+4004,Mujer,27,Estudiante,5,17,2,0,7-8 horas,Moderado,Sí,7,2,Sí,1
+4006,Hombre,23,Estudiante,3,11,4,0,7-8 horas,Saludable,Sí,0,3,No,1
+4013,Mujer,24,Estudiante,5,16,1,0,Menos de 5 horas,Saludable,Sí,0,2,No,1
+4015,Hombre,20,Estudiante,3,16,3,0,Menos de 5 horas,Moderado,Sí,10,4,Sí,1
+4016,Hombre,21,Estudiante,1,16,1,0,7-8 horas,No saludable,Sí,8,2,No,1
+4022,Hombre,23,Estudiante,2,14,3,0,7-8 horas,Saludable,Sí,12,3,Sí,1
+4027,Mujer,24,Estudiante,5,12,3,0,7-8 horas,No saludable,Sí,7,1,Sí,1
+4029,Mujer,23,Estudiante,3,13,3,0,Más de 8 horas,Saludable,No,2,3,No,0
+4039,Hombre,24,Estudiante,3,12,3,0,Más de 8 horas,No saludable,No,7,5,Sí,0
+4047,Mujer,24,Estudiante,3,13,3,0,5-6 horas,Moderado,Sí,4,4,No,1
+4056,Hombre,25,Estudiante,3,14,1,0,5-6 horas,Moderado,Sí,5,3,No,0
+4058,Mujer,27,Estudiante,5,15,5,0,Más de 8 horas,No saludable,Sí,10,5,Sí,1
+4060,Hombre,20,Estudiante,4,15,2,0,7-8 horas,No saludable,Sí,10,4,No,1
+4070,Hombre,23,Estudiante,3,11,4,0,5-6 horas,Saludable,Sí,5,5,Sí,1
+4077,Mujer,19,Estudiante,4,14,3,0,5-6 horas,No saludable,Sí,11,2,No,1
+4078,Mujer,34,Estudiante,1,12,2,0,Más de 8 horas,Moderado,No,4,1,No,0
+4079,Mujer,28,Estudiante,4,14,1,0,7-8 horas,Saludable,Sí,11,5,Sí,1
+4080,Hombre,21,Estudiante,1,11,4,0,Menos de 5 horas,Moderado,No,11,2,No,0
+4081,Hombre,20,Estudiante,3,16,3,0,Más de 8 horas,No saludable,Sí,8,4,Sí,1
+4082,Hombre,24,Estudiante,3,12,2,0,5-6 horas,No saludable,No,10,5,Sí,1
+4083,Hombre,25,Estudiante,2,14,1,0,Más de 8 horas,Moderado,No,3,2,No,0
+4090,Hombre,22,Estudiante,5,14,2,0,Menos de 5 horas,No saludable,Sí,2,1,Sí,1
+4092,Mujer,18,Estudiante,5,13,3,0,Más de 8 horas,No saludable,Sí,11,4,No,1
+4104,Hombre,33,Estudiante,4,16,4,0,5-6 horas,Moderado,Sí,7,1,No,0
+4111,Hombre,34,Estudiante,2,12,4,0,Menos de 5 horas,Saludable,Sí,12,5,Sí,1
+4113,Mujer,23,Estudiante,3,11,3,0,7-8 horas,Moderado,Sí,5,3,Sí,1
+4114,Mujer,30,Estudiante,5,12,1,0,5-6 horas,Saludable,Sí,3,5,Sí,0
+4117,Hombre,23,Estudiante,1,17,4,0,Menos de 5 horas,Moderado,Sí,11,3,Sí,1
+4121,Hombre,20,Estudiante,3,14,4,0,5-6 horas,Moderado,Sí,10,5,No,1
+4126,Hombre,20,Estudiante,5,16,4,0,Más de 8 horas,Moderado,Sí,0,5,No,1
+4127,Hombre,34,Estudiante,3,15,2,0,Menos de 5 horas,Moderado,Sí,0,5,Sí,1
+4130,Hombre,28,Estudiante,3,16,4,0,Más de 8 horas,No saludable,Sí,7,5,Sí,1
+4133,Mujer,34,Estudiante,3,15,1,0,7-8 horas,No saludable,No,0,2,No,0
+4137,Hombre,19,Estudiante,5,15,3,0,5-6 horas,No saludable,Sí,7,3,Sí,1
+4141,Hombre,26,Estudiante,5,11,4,0,Menos de 5 horas,Moderado,Sí,12,5,No,1
+4146,Hombre,25,Estudiante,5,13,2,0,5-6 horas,No saludable,Sí,12,4,Sí,1
+4171,Mujer,27,Estudiante,3,13,3,0,Menos de 5 horas,Saludable,Sí,6,2,No,1
+4174,Mujer,34,Estudiante,4,17,5,0,5-6 horas,No saludable,No,7,1,Sí,0
+4183,Hombre,19,Estudiante,2,17,5,0,5-6 horas,Saludable,Sí,8,4,Sí,1
+4187,Hombre,23,Estudiante,2,11,5,0,5-6 horas,Moderado,Sí,9,5,No,0
+4188,Hombre,31,Estudiante,1,15,3,0,Menos de 5 horas,Moderado,Sí,0,1,No,0
+4189,Hombre,31,Estudiante,1,16,3,0,5-6 horas,Saludable,Sí,10,5,No,0
+4191,Hombre,31,Estudiante,4,15,5,0,Menos de 5 horas,Saludable,Sí,5,1,No,1
+4202,Hombre,19,Estudiante,4,14,5,0,Más de 8 horas,Moderado,No,12,4,No,1
+4210,Hombre,25,Estudiante,3,13,4,0,5-6 horas,No saludable,Sí,3,4,Sí,1
+4213,Mujer,26,Estudiante,1,14,4,0,Menos de 5 horas,Moderado,Sí,10,2,No,0
+4226,Mujer,22,Estudiante,5,14,1,0,Más de 8 horas,No saludable,Sí,9,5,Sí,1
+4227,Mujer,25,Estudiante,5,15,3,0,Más de 8 horas,Moderado,Sí,11,5,Sí,1
+4241,Hombre,20,Estudiante,1,11,4,0,7-8 horas,No saludable,Sí,10,3,Sí,0
+4243,Mujer,29,Estudiante,4,15,3,0,Más de 8 horas,No saludable,No,9,2,No,0
+4248,Hombre,19,Estudiante,5,17,3,0,Más de 8 horas,Moderado,Sí,4,4,No,1
+4249,Hombre,27,Estudiante,5,17,1,0,5-6 horas,Moderado,Sí,12,2,No,1
+4252,Hombre,34,Estudiante,3,17,3,0,Menos de 5 horas,Moderado,No,5,1,Sí,0
+4263,Mujer,28,Estudiante,5,13,2,0,Más de 8 horas,Moderado,Sí,5,1,No,1
+4267,Mujer,20,Estudiante,5,11,3,0,5-6 horas,No saludable,Sí,11,4,Sí,1
+4271,Mujer,24,Estudiante,3,13,3,0,7-8 horas,Moderado,Sí,6,4,No,1
+4277,Mujer,24,Estudiante,4,16,2,0,Menos de 5 horas,No saludable,Sí,7,5,Sí,1
+4281,Mujer,26,Estudiante,4,16,2,0,5-6 horas,Moderado,Sí,5,2,No,0
+4284,Mujer,18,Estudiante,3,15,4,0,5-6 horas,Saludable,Sí,9,4,No,1
+4304,Mujer,22,Estudiante,4,13,4,0,5-6 horas,No saludable,Sí,8,5,No,1
+4308,Mujer,33,Estudiante,3,13,3,0,5-6 horas,No saludable,No,2,3,Sí,0
+4309,Hombre,18,Estudiante,3,14,4,0,7-8 horas,No saludable,Sí,10,4,No,1
+4313,Hombre,26,Estudiante,5,15,1,0,Menos de 5 horas,Moderado,No,12,1,Sí,0
+4316,Mujer,29,Estudiante,5,16,2,0,Menos de 5 horas,Saludable,Sí,7,1,Sí,0
+4324,Hombre,28,Estudiante,2,17,3,0,Más de 8 horas,Saludable,Sí,10,1,Sí,0
+4325,Hombre,22,Estudiante,4,17,1,0,5-6 horas,Saludable,Sí,0,4,No,1
+4333,Hombre,27,Estudiante,1,11,4,0,7-8 horas,No saludable,No,12,2,No,0
+4335,Hombre,29,Estudiante,5,14,1,0,5-6 horas,No saludable,Sí,11,5,Sí,1
+4337,Hombre,28,Estudiante,1,16,4,0,Menos de 5 horas,No saludable,Sí,10,3,No,1
+4343,Mujer,29,Estudiante,2,13,2,0,5-6 horas,Moderado,Sí,10,5,Sí,1
+4345,Mujer,24,Estudiante,2,15,1,0,Más de 8 horas,Moderado,No,7,3,No,0
+4346,Hombre,34,Estudiante,1,14,2,0,Menos de 5 horas,Moderado,No,3,2,Sí,0
+4349,Hombre,20,Estudiante,2,16,3,0,7-8 horas,No saludable,Sí,10,1,No,1
+4356,Mujer,28,Estudiante,3,15,1,0,Menos de 5 horas,Moderado,Sí,10,3,Sí,1
+4358,Hombre,28,Estudiante,1,16,4,0,5-6 horas,No saludable,Sí,1,4,No,0
+4362,Mujer,19,Estudiante,4,11,5,0,Menos de 5 horas,Saludable,No,12,1,Sí,1
+4366,Hombre,31,Estudiante,3,14,3,0,Menos de 5 horas,Moderado,No,12,1,Sí,0
+4379,Mujer,32,Estudiante,2,17,2,0,7-8 horas,Saludable,Sí,6,4,No,1
+4380,Hombre,20,Estudiante,2,11,3,0,7-8 horas,No saludable,Sí,10,1,No,1
+4381,Mujer,23,Estudiante,5,14,3,0,7-8 horas,Saludable,Sí,1,5,No,1
+4390,Mujer,29,Estudiante,4,13,5,0,Menos de 5 horas,Saludable,No,3,2,No,0
+4399,Mujer,19,Estudiante,1,14,2,0,7-8 horas,Saludable,No,5,1,Sí,0
+4410,Hombre,21,Estudiante,1,13,2,0,5-6 horas,No saludable,Sí,9,5,Sí,1
+4411,Hombre,26,Estudiante,3,16,5,0,7-8 horas,Moderado,No,4,1,Sí,0
+4413,Hombre,28,Estudiante,2,17,1,0,5-6 horas,Moderado,Sí,6,3,Sí,1
+4414,Hombre,23,Estudiante,3,13,5,0,Más de 8 horas,No saludable,Sí,4,5,Sí,0
+4417,Hombre,18,Estudiante,5,13,3,0,Menos de 5 horas,Moderado,Sí,6,5,Sí,1
+4424,Hombre,19,Estudiante,4,15,3,0,5-6 horas,No saludable,Sí,4,3,No,1
+4435,Mujer,29,Estudiante,3,12,4,0,7-8 horas,Saludable,Sí,12,4,Sí,1
+4437,Hombre,19,Estudiante,3,15,3,0,Más de 8 horas,Saludable,No,2,2,Sí,1
+4439,Hombre,22,Estudiante,1,15,4,0,7-8 horas,Moderado,No,0,1,Sí,0
+4440,Mujer,23,Estudiante,5,14,5,0,Menos de 5 horas,No saludable,Sí,10,1,Sí,1
+4441,Mujer,28,Estudiante,3,13,5,0,7-8 horas,Moderado,Sí,3,1,No,0
+4447,Hombre,21,Estudiante,3,16,1,0,Más de 8 horas,No saludable,Sí,12,3,Sí,1
+4449,Hombre,19,Estudiante,1,16,1,0,Menos de 5 horas,Saludable,Sí,5,2,Sí,0
+4451,Hombre,29,Estudiante,4,10,1,0,Menos de 5 horas,No saludable,Sí,6,5,No,1
+4461,Mujer,20,Estudiante,2,14,4,0,7-8 horas,Moderado,Sí,12,3,No,1
+4464,Mujer,34,Estudiante,2,15,5,0,5-6 horas,Moderado,No,6,1,Sí,0
+4474,Hombre,31,Estudiante,5,11,1,0,Menos de 5 horas,Moderado,Sí,11,5,No,1
+4480,Mujer,22,Estudiante,4,13,5,0,7-8 horas,Moderado,No,6,4,No,1
+4484,Mujer,33,Estudiante,3,17,3,0,Más de 8 horas,Moderado,Sí,4,1,No,0
+4491,Hombre,24,Estudiante,5,12,3,0,7-8 horas,No saludable,Sí,8,5,No,1
+4492,Mujer,20,Estudiante,3,14,1,0,7-8 horas,Saludable,No,11,4,Sí,0
+4499,Hombre,20,Estudiante,5,11,2,0,Menos de 5 horas,Saludable,Sí,4,5,Sí,1
+4500,Mujer,29,Estudiante,3,16,1,0,Menos de 5 horas,Moderado,Sí,10,5,Sí,1
+4509,Mujer,29,Estudiante,4,15,4,0,Menos de 5 horas,Moderado,No,5,5,No,1
+4510,Mujer,21,Estudiante,3,12,2,0,7-8 horas,Saludable,Sí,8,4,No,1
+4511,Mujer,33,Estudiante,1,15,2,0,7-8 horas,Moderado,No,12,4,No,0
+4516,Mujer,30,Estudiante,2,16,2,0,Más de 8 horas,Saludable,No,0,2,No,0
+4519,Mujer,24,Estudiante,3,14,2,0,5-6 horas,Moderado,Sí,7,1,No,1
+4528,Mujer,20,Estudiante,3,14,1,0,7-8 horas,No saludable,Sí,12,3,Sí,1
+4538,Mujer,30,Estudiante,2,16,5,0,7-8 horas,No saludable,Sí,12,5,Sí,1
+4546,Hombre,25,Estudiante,5,13,2,0,7-8 horas,No saludable,Sí,10,4,No,1
+4560,Hombre,23,Estudiante,1,14,2,0,Menos de 5 horas,Moderado,No,0,2,Sí,0
+4564,Mujer,28,Estudiante,3,15,4,0,Más de 8 horas,No saludable,Sí,0,3,Sí,0
+4570,Hombre,22,Estudiante,2,14,2,0,Menos de 5 horas,No saludable,Sí,6,3,Sí,0
+4571,Hombre,29,Estudiante,2,14,4,0,Menos de 5 horas,Moderado,Sí,12,5,No,1
+4591,Hombre,27,Estudiante,4,14,3,0,Menos de 5 horas,No saludable,Sí,8,1,No,1
+4607,Hombre,33,Estudiante,5,16,3,0,7-8 horas,No saludable,Sí,12,4,No,1
+4611,Mujer,33,Estudiante,5,17,4,0,5-6 horas,No saludable,Sí,12,4,Sí,1
+4614,Mujer,21,Estudiante,3,10,1,0,Más de 8 horas,Moderado,No,11,3,No,0
+4615,Mujer,27,Estudiante,3,16,3,0,7-8 horas,Moderado,No,11,1,Sí,0
+4618,Mujer,26,Estudiante,5,12,1,0,Más de 8 horas,Moderado,Sí,7,1,No,1
+4621,Hombre,23,Estudiante,1,16,2,0,5-6 horas,Moderado,Sí,9,5,Sí,0
+4624,Hombre,21,Estudiante,5,12,4,0,7-8 horas,Saludable,No,10,2,Sí,1
+4635,Mujer,20,Estudiante,5,15,2,0,7-8 horas,Moderado,Sí,12,2,No,1
+4643,Mujer,22,Estudiante,4,16,2,0,5-6 horas,Saludable,Sí,4,4,Sí,1
+4647,Mujer,31,Estudiante,3,15,5,0,7-8 horas,Saludable,Sí,10,4,Sí,1
+4657,Hombre,23,Estudiante,2,16,4,0,Menos de 5 horas,Moderado,Sí,8,1,No,1
+4661,Hombre,20,Estudiante,4,10,1,0,Más de 8 horas,Saludable,No,5,4,Sí,1
+4668,Mujer,26,Estudiante,5,12,1,0,5-6 horas,No saludable,No,4,2,No,0
+4673,Hombre,20,Estudiante,4,16,1,0,Menos de 5 horas,No saludable,Sí,9,5,No,1
+4674,Mujer,24,Estudiante,3,17,4,0,7-8 horas,Saludable,No,12,2,No,0
+4680,Hombre,18,Estudiante,1,13,2,0,Menos de 5 horas,Moderado,Sí,8,1,Sí,0
+4698,Mujer,29,Estudiante,3,16,4,0,Menos de 5 horas,Moderado,Sí,4,1,No,1
+4700,Mujer,21,Estudiante,4,16,5,0,Más de 8 horas,No saludable,Sí,7,4,No,1
+4714,Hombre,32,Estudiante,2,12,4,0,7-8 horas,Saludable,No,12,2,Sí,0
+4715,Hombre,22,Estudiante,4,15,3,0,7-8 horas,Moderado,Sí,8,4,Sí,1
+4717,Hombre,29,Estudiante,2,16,3,0,7-8 horas,Moderado,Sí,11,4,No,1
+4718,Hombre,22,Estudiante,1,14,3,0,Más de 8 horas,Saludable,No,0,2,Sí,0
+4725,Hombre,19,Estudiante,2,13,2,0,Menos de 5 horas,Moderado,Sí,0,2,Sí,0
+4727,Hombre,28,Estudiante,5,17,1,0,Menos de 5 horas,Saludable,Sí,10,1,No,1
+4730,Hombre,24,Estudiante,3,14,4,0,Menos de 5 horas,No saludable,No,0,4,No,0
+4740,Hombre,29,Estudiante,3,13,1,0,Más de 8 horas,Moderado,No,4,4,Sí,0
+4756,Hombre,22,Estudiante,1,12,1,0,Más de 8 horas,Moderado,No,2,4,Sí,0
+4758,Hombre,24,Estudiante,4,11,1,0,Menos de 5 horas,No saludable,Sí,6,4,No,1
+4765,Mujer,23,Estudiante,3,16,1,0,Menos de 5 horas,No saludable,Sí,10,3,No,1
+4768,Mujer,32,Estudiante,4,14,2,0,Menos de 5 horas,Saludable,Sí,7,2,No,1
+4770,Mujer,24,Estudiante,4,14,1,0,Menos de 5 horas,No saludable,Sí,9,5,Sí,1
+4773,Hombre,29,Estudiante,4,14,1,0,5-6 horas,No saludable,Sí,1,2,No,1
+4780,Hombre,27,Estudiante,2,15,3,0,7-8 horas,No saludable,Sí,6,5,No,1
+4784,Hombre,18,Estudiante,5,11,4,0,7-8 horas,No saludable,Sí,9,3,No,1
+4787,Mujer,20,Estudiante,4,16,2,0,Menos de 5 horas,Saludable,No,10,2,No,0
+4790,Hombre,24,Estudiante,3,11,4,0,Menos de 5 horas,No saludable,Sí,4,5,Sí,1
+4800,Hombre,34,Estudiante,4,16,2,0,5-6 horas,Moderado,Sí,0,4,No,0
+4807,Hombre,18,Estudiante,1,16,1,0,Más de 8 horas,No saludable,Sí,12,2,No,1
+4820,Mujer,22,Estudiante,3,12,1,0,Menos de 5 horas,Moderado,Sí,5,3,No,1
+4826,Hombre,28,Estudiante,1,15,3,0,Menos de 5 horas,No saludable,No,4,1,No,0
+4827,Hombre,30,Estudiante,5,16,3,0,7-8 horas,Moderado,No,8,3,Sí,1
+4832,Hombre,34,Estudiante,2,16,1,0,Más de 8 horas,Moderado,Sí,12,2,Sí,0
+4839,Hombre,31,Estudiante,5,13,1,0,Menos de 5 horas,Moderado,No,12,4,No,1
+4846,Mujer,31,Estudiante,5,14,2,0,Más de 8 horas,Saludable,Sí,3,1,Sí,0
+4849,Hombre,27,Estudiante,3,16,4,0,5-6 horas,Moderado,No,12,5,Sí,0
+4858,Mujer,18,Estudiante,4,17,3,0,7-8 horas,No saludable,No,11,1,No,1
+4862,Hombre,19,Estudiante,5,13,1,0,Más de 8 horas,Moderado,Sí,4,2,No,1
+4868,Hombre,33,Estudiante,1,17,5,0,Más de 8 horas,No saludable,No,4,1,No,0
+4870,Hombre,26,Estudiante,5,17,2,0,Menos de 5 horas,No saludable,No,6,2,Sí,0
+4872,Mujer,29,Estudiante,4,15,3,0,5-6 horas,No saludable,Sí,2,4,No,1
+4878,Hombre,23,Estudiante,1,13,2,0,5-6 horas,No saludable,Sí,9,3,No,0
+4887,Hombre,32,Estudiante,3,12,1,0,Más de 8 horas,No saludable,No,1,2,No,0
+4901,Mujer,33,Estudiante,2,15,5,0,Más de 8 horas,Moderado,Sí,0,4,No,1
+4918,Mujer,34,Estudiante,4,16,3,0,7-8 horas,Moderado,No,8,5,No,0
+4921,Hombre,18,Estudiante,4,15,3,0,7-8 horas,No saludable,Sí,10,5,No,1
+4927,Hombre,24,Estudiante,4,12,3,0,Más de 8 horas,No saludable,Sí,9,1,Sí,1
+4935,Mujer,33,Estudiante,4,13,3,0,7-8 horas,Saludable,Sí,8,4,Sí,1
+4937,Mujer,23,Estudiante,1,12,5,0,7-8 horas,Moderado,Sí,5,1,No,0
+4939,Mujer,20,Estudiante,4,15,3,0,7-8 horas,No saludable,Sí,12,2,Sí,1
+4949,Mujer,24,Estudiante,5,12,2,0,5-6 horas,Moderado,No,8,5,Sí,1
+4955,Mujer,33,Estudiante,5,10,2,0,Menos de 5 horas,Moderado,No,0,2,Sí,0
+4964,Hombre,24,Estudiante,5,16,1,0,5-6 horas,Moderado,No,12,5,Sí,1
+4970,Mujer,29,Estudiante,4,11,1,0,Más de 8 horas,Saludable,No,12,3,Sí,0
+4971,Hombre,29,Estudiante,3,13,3,0,5-6 horas,No saludable,Sí,10,3,Sí,1
+4975,Hombre,26,Estudiante,5,16,2,0,5-6 horas,Moderado,Sí,1,2,No,1
+4979,Hombre,19,Estudiante,5,17,1,0,Menos de 5 horas,Moderado,Sí,2,5,No,1
+4981,Mujer,25,Estudiante,4,16,4,0,Menos de 5 horas,No saludable,No,2,4,No,0
+4985,Hombre,19,Estudiante,4,13,4,0,7-8 horas,Moderado,Sí,3,5,No,1
+4995,Mujer,26,Estudiante,1,15,5,0,5-6 horas,Moderado,No,3,4,Sí,0
+4997,Mujer,33,Estudiante,2,16,2,0,Más de 8 horas,Moderado,No,4,1,No,0
+4998,Hombre,18,Estudiante,3,16,4,0,7-8 horas,Saludable,Sí,1,2,Sí,1
+5008,Hombre,33,Estudiante,5,15,1,0,5-6 horas,Saludable,Sí,7,2,No,1
+5009,Mujer,27,Estudiante,2,13,4,0,Más de 8 horas,Saludable,No,5,1,No,0
+5010,Hombre,30,Estudiante,3,11,4,0,7-8 horas,Saludable,No,11,4,Sí,0
+5011,Hombre,34,Estudiante,2,16,3,0,5-6 horas,Moderado,No,11,4,Sí,0
+5015,Hombre,18,Estudiante,2,11,2,0,Más de 8 horas,Moderado,No,8,3,No,0
+5017,Mujer,26,Estudiante,2,14,1,0,5-6 horas,Saludable,No,11,2,No,0
+5018,Mujer,28,Estudiante,4,13,5,0,Más de 8 horas,Saludable,Sí,6,2,Sí,0
+5038,Hombre,18,Estudiante,5,12,1,0,Menos de 5 horas,Saludable,Sí,12,3,Sí,1
+5045,Hombre,25,Estudiante,5,15,1,0,Menos de 5 horas,Saludable,Sí,3,2,No,1
+5046,Mujer,20,Estudiante,5,14,1,0,Más de 8 horas,Moderado,Sí,6,5,No,1
+5049,Hombre,24,Estudiante,2,12,3,0,7-8 horas,Saludable,Sí,11,4,No,1
+5051,Hombre,20,Estudiante,3,17,3,0,5-6 horas,No saludable,No,7,4,No,0
+5056,Hombre,23,Estudiante,3,14,4,0,7-8 horas,Moderado,Sí,0,2,Sí,1
+5062,Mujer,27,Estudiante,3,17,2,0,Menos de 5 horas,No saludable,Sí,7,3,Sí,1
+5064,Mujer,19,Estudiante,1,14,2,0,5-6 horas,Moderado,Sí,1,1,Sí,0
+5066,Mujer,33,Estudiante,1,10,3,0,Menos de 5 horas,No saludable,No,5,5,Sí,0
+5070,Mujer,21,Estudiante,2,14,4,0,Menos de 5 horas,No saludable,No,5,5,No,1
+5071,Mujer,27,Estudiante,4,11,5,0,5-6 horas,No saludable,Sí,10,1,No,0
+5073,Hombre,19,Estudiante,1,16,5,0,7-8 horas,Moderado,No,2,4,No,0
+5078,Mujer,34,Estudiante,1,13,3,0,Menos de 5 horas,Moderado,Sí,9,2,No,1
+5080,Mujer,28,Estudiante,3,16,5,0,Más de 8 horas,Moderado,No,0,1,Sí,0
+5082,Mujer,20,Estudiante,4,10,5,0,Más de 8 horas,Moderado,Sí,0,3,Sí,0
+5089,Mujer,31,Estudiante,5,17,2,0,Menos de 5 horas,Saludable,No,9,1,No,0
+5090,Mujer,20,Estudiante,5,15,3,0,5-6 horas,No saludable,Sí,12,5,Sí,1
+5092,Hombre,30,Estudiante,5,14,3,0,Menos de 5 horas,Moderado,Sí,6,2,Sí,1
+5097,Mujer,19,Estudiante,5,15,1,0,7-8 horas,No saludable,Sí,10,2,No,1
+5105,Mujer,21,Estudiante,3,14,2,0,7-8 horas,Saludable,No,8,3,No,1
+5106,Hombre,29,Estudiante,5,16,5,0,7-8 horas,Moderado,Sí,11,5,No,1
+5110,Hombre,32,Estudiante,2,13,1,0,Más de 8 horas,Moderado,No,11,4,Sí,0
+5113,Hombre,29,Estudiante,2,15,2,0,7-8 horas,Moderado,Sí,8,2,No,1
+5122,Hombre,34,Estudiante,2,15,3,0,Menos de 5 horas,Moderado,Sí,8,5,No,1
+5125,Mujer,33,Estudiante,2,16,2,0,Menos de 5 horas,Moderado,Sí,12,5,No,0
+5128,Hombre,30,Estudiante,4,14,4,0,Más de 8 horas,No saludable,Sí,0,3,Sí,0
+5130,Mujer,28,Estudiante,3,16,4,0,Menos de 5 horas,Moderado,Sí,2,5,Sí,1
+5136,Hombre,28,Estudiante,4,11,3,0,Más de 8 horas,No saludable,No,6,1,Sí,0
